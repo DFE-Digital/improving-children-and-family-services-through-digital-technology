@@ -2,7 +2,7 @@
 title: Digital standards introduction
 ---
 
-The Department for Education has been working with a number of Local Authorities to identify opportunities to improve the quality of children’s social care to improve the lives of children and families. 
+The Department for Education has worked with Local Authorities and others to identify opportunities to improve the quality of children’s social care to improve the lives of children and families. 
 
 We have developed a set of design prinicples and guidance on data standards with children social care providers and vendors of existing systems. 
 
