@@ -1,5 +1,5 @@
 ---
-title: Digital standards
+title: Digital standards introduction
 ---
 
 The Department for Education has been working with a number of Local Authorities to identify opportunities to improve the quality of children’s social care to improve the lives of children and families. 
