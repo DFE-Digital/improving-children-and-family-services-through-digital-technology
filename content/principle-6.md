@@ -1,5 +1,5 @@
 ---
-title: Principle 6: Design systems that include performance analytics for monitoring
+title: "Principle 6 Design systems that include performance analytics for monitoring"
 ---
 
 ###Why is it important
