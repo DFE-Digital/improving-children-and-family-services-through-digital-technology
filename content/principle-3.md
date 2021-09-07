@@ -19,9 +19,8 @@ Vendors and local authorities should:
 
 ##Guidance
 
-User interface design
-Designing for different browsers and devices
-Business Process Improvement Techniques (LGA)
+[User interface design](https://www.usability.gov/what-and-why/user-interface-design.html)
+[Designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices)
 
 ##What should compliance look like
 
