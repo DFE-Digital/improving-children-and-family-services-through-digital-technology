@@ -1,5 +1,5 @@
 ---
-title: Principle 4: Design systems to be accessible and inclusive
+title: "Principle 4 Design systems to be accessible and inclusive"
 ---
 
 ###Why is it important
