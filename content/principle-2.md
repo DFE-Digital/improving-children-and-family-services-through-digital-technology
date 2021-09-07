@@ -18,7 +18,7 @@ Interoperability allows the exchange and sharing of information between differen
 
 These systems need to be joined up and allow communication across regions and organisations. They should be able to provide the quick and efficient sharing of children and family data. Case management systems should also allow for third party apps to be integrated.
 
-Applications, data and processes must work together to make the right information available to the right user at the right time.. The systems underpinning this must also be affordable and sustainable. 
+Applications, data and processes must work together to make the right information available to the right user at the right time. The systems underpinning this must also be affordable and sustainable. 
 
 ##Use open application programming interfaces (APIs)
 
