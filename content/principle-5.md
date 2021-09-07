@@ -1,12 +1,12 @@
 ---
-title: "Principle 5 Design systems that reflect the voice of the child"
+title: "5. Design systems that reflect the voice of the child"
 ---
 
-###Why is it important
+##Why is it important
 
 To ensure their 'voice' influences the decisions that professionals make, children and young people should have the opportunity to give their input and experiences. They should always be involved and have information fed back to them in a way that they can understand. It is important the child is able to see their voice reflected in their record to help them make sense of their personal story.
 
-###What it means
+##What it means
 
 The child must play an active role in contributing to what is being set up. Social workers need to understand:
 
@@ -42,11 +42,11 @@ Systems should allow:
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
-###Guidance
+##Guidance
 
 (needs adding)
 
-###What should compliance look like
+##What should compliance look like
 
 During procurement, the following must be demonstrated:
 
@@ -56,6 +56,6 @@ During procurement, the following must be demonstrated:
 * how families and children have access via standard products they use in everyday life
 * how forms and workflows have prompts to make the user input information in a way so that it is written directly ‘to the child
 
-###Possible barriers to implementation 
+##Possible barriers to implementation 
 
 This is about making sure there are options to build into local design if needed, but in some cases this need is met outside of the system. Local authorities do not always view this as a clear business need and as a result, functions and requirements are not clearly defined. Better engagement tools are needed to feed into the structured recording of a CMS. 
