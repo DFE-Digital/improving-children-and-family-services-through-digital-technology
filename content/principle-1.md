@@ -2,15 +2,16 @@
 title: "1. Design systems in a user-centred way to meet user needs"
 ---
 
-##Why is it important
+##Importance of user needs
 
 Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Do not make assumptions. Have empathy for users and remember that what they ask for is not always what they need.
 
-##What it means
+##Focus on end-users
 
 Children’s social care tools and services must be procured, designed, and implemented in response to the practical and emotional needs of the end-user. 
 
 Children's, families’ and social workers’ experiences and abilities, as well as the needs of frontline staff, performance managers and strategic leaders (including DfE and Ofsted), must be addressed.
+
 There must be a clear understanding of how innovation or technology will result in better provision and outcomes for children.
 Vendors must regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
 
@@ -30,7 +31,7 @@ For this purpose, vendors must also demonstrate that:
 * data is valid, up to date and there’s a plan to make sure it remains up to date
 * post market surveillance is undertaken, and feedback is risk assessed and acted upon
 
-##Guidance
+##Available guidance
 
 Guidance is available on [learning about users and their needs from Government Digital Services](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) including:
 
@@ -40,7 +41,7 @@ Guidance is available on [learning about users and their needs from Government D
 
 The [Service Manual](https://www.gov.uk/service-manual) helps teams to create and run great public services.
 
-##What should compliance look like
+##Good practice
 
 During procurement, the following should be demonstrated: 
 
@@ -50,6 +51,6 @@ During procurement, the following should be demonstrated:
 * how the user needs have been weighed against strategic and statutory priorities
 * how the system provides easy access to the information the user needs and provides a pathway that matches the local authority’s operational practice
 
-##Possible barriers to implementation 
+##Challenges
 
 Different local authorities have users with different needs, abilities, and ways of working which makes standardisation challenging. While this can be achieved to an extent, there would need to be cost and time considerations to allow the systems to be adapted as needed. Procurement is not always user-centred so user needs do not feed though. Understanding the needs of internal users and children and families to allow them to co-create records in an open and transparent manner is a challenge.
