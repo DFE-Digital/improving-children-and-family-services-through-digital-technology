@@ -32,3 +32,7 @@ During procurement, the following should be demonstrated:
 ##Challenges 
 
 Elements that can help (data type flags in the coding and retention) are not always robust or flexible enough to meet expectations. This should be the norm, not something that we strive to. Similar organisations can interpret the same information in different ways. All data requires context or leads to misunderstandings.
+
+[Introduction](/index)
+[Previous principle](/principle-5)
+[Next principle](/principle-7)
