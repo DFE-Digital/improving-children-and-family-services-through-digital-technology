@@ -59,5 +59,7 @@ During procurement, the following must be demonstrated:
 This is about making sure there are options to build into local design if needed, but in some cases this need is met outside of the system. Local authorities do not always view this as a clear business need and as a result, functions and requirements are not clearly defined. Better engagement tools are needed to feed into the structured recording of a CMS. 
 
 [Introduction](/index)
+
 [Previous principle](/principle-4)
+
 [Next principle](/principle-6)
