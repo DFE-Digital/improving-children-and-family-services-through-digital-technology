@@ -1,5 +1,5 @@
 ---
-title: "1. Design systems in a user-centred way to meet user needs"
+title: "Design systems in a user-centred way to meet user needs"
 ---
 
 ##Importance of user needs
