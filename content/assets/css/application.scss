@@ -1,3 +1,5 @@
+$govuk-font-family: "sans";
+
 @import 'govuk/tools/all';
 @import 'govuk/settings/all';
 @import 'govuk/helpers/all';
@@ -291,4 +293,10 @@ main {
       margin-bottom: .2em;
     }
   }
+}
+
+// ensure it doesn't look official
+
+.govuk-header__container {
+  border-bottom: 10px solid govuk-colour("turquoise");
 }
