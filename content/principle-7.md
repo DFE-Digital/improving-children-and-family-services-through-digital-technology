@@ -1,5 +1,5 @@
 ---
-title: "Principle 7 Design systems that secure personal data without inhibiting children’s social care practice"
+title: "7. Design systems that secure personal data without inhibiting children’s social care practice"
 ---
 
 ##Why is it important
