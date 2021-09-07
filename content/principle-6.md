@@ -16,8 +16,8 @@ Information should be made available for decision-making as close to real-time a
 
 ##Available guidance
 
-[Read Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
-[Read point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
+* [Read Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
+* [Read point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
 
 ##Good practice
 
@@ -34,5 +34,7 @@ During procurement, the following should be demonstrated:
 Elements that can help (data type flags in the coding and retention) are not always robust or flexible enough to meet expectations. This should be the norm, not something that we strive to. Similar organisations can interpret the same information in different ways. All data requires context or leads to misunderstandings.
 
 [Introduction](/index)
+
 [Previous principle](/principle-5)
+
 [Next principle](/principle-7)
