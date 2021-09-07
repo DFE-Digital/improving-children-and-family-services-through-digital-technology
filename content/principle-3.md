@@ -1,5 +1,5 @@
 ---
-title: "3. Design systems that are simple to use"
+title: "Design systems that are simple to use"
 ---
 
 ##Keep it simple
