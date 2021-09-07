@@ -33,7 +33,7 @@ promoting and accelerating innovation – sharing data within different systems 
 * [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
 
-##What should compliance look like
+##Good practice
 
 During procurement, the following should be demonstrated:
 
@@ -42,6 +42,6 @@ During procurement, the following should be demonstrated:
 * how the product meets the open API standards
 * examples of collaboration or integration and the transfer of information between systems
 
-##Possible barriers to implementation 
+##Challenges
 
 Vendors treat their data structures as intellectual property they own and are not open to share this. It is a commercial issue for them. Local authorities feel vendors may not be inclined to make it easy to use third party products. There are also issues with making older systems connect with newer ones. There are so many different systems and providers being used and different versions available of the same system.This is the same with partner agencies systems linking to social care systems - they need to be enforced.
