@@ -34,9 +34,9 @@ For this purpose, vendors must also demonstrate that:
 
 Guidance is available on [learning about users and their needs from Government Digital Services](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) including:
 
-* Understanding what users need
-* Demonstrating compliance with this standard
-* Using data to improve your service
+* understanding what users need
+* demonstrating compliance with this standard
+* using data to improve your service
 
 The [Service Manual](https://www.gov.uk/service-manual) helps teams to create and run great public services.
 
