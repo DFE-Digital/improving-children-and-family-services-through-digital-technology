@@ -23,7 +23,7 @@ The resources section gives links to existing guidance on digital, data and tech
 
 ## Principles
 
-1. [Design children's social care case management systems in a user-centred way to meet user needs](/principle-1)
+1. [Design systems in a user-centred way to meet user needs](/principle-1)
 2. [Design systems to work interoperably](/principle-2)
 3. [Design systems that are simple to use](/principle-3)
 4. [Design systems to be accessible and inclusive](/principle-4)
