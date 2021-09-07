@@ -56,4 +56,5 @@ During procurement, the following should be demonstrated:
 Different local authorities have users with different needs, abilities, and ways of working which makes standardisation challenging. While this can be achieved to an extent, there would need to be cost and time considerations to allow the systems to be adapted as needed. Procurement is not always user-centred so user needs do not feed though. Understanding the needs of internal users and children and families to allow them to co-create records in an open and transparent manner is a challenge.
 
 [Introduction](/index)
+
 [Next principle](/principle-2)
