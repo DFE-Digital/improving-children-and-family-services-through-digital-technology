@@ -40,4 +40,22 @@ Systems should allow:
 * for the development of features and functionality which allow children and young people to directly interact with the system 
 * for the development of features that allow interaction supported by tools which enable children and young people to create and enter in ways which support their personal choices, age and context
 
-Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process 
+Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
+
+###Guidance
+
+(needs adding)
+
+###What should compliance look like
+
+During procurement, the following must be demonstrated:
+
+* the ability to clearly identify and report the views of the child - including from them directly and via their care professional 
+* allows a range of materials in different formats to reflect the story of the child and family
+* encourages collaboration with children and families
+* how families and children have access via standard products they use in everyday life
+* how forms and workflows have prompts to make the user input information in a way so that it is written directly ‘to the child
+
+###Possible barriers to implementation 
+
+This is about making sure there are options to build into local design if needed, but in some cases this need is met outside of the system. Local authorities do not always view this as a clear business need and as a result, functions and requirements are not clearly defined. Better engagement tools are needed to feed into the structured recording of a CMS. 
