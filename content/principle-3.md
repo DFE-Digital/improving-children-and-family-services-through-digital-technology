@@ -46,5 +46,7 @@ During procurement, the following should be demonstrated:
 If you design around the user you capture how to make it simple. However, local authorities feel that competing needs by big hitters such as the court and government returns are often not innovative or modern approaches to social work, which can cause complex processes and requirements. Local authorities also find that the tool often drives practice when it should be the other way around. Need to take guidance from industries that try to cater to all levels of understanding - like smartphones.The user’s experience (UX) should be similar to that of using day-to-day applications especially for children and families. 
 
 [Introduction](/index)
+
 [Previous principle](/principle-2)
+
 [Next principle](/principle-4)
