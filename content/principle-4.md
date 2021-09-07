@@ -54,3 +54,7 @@ Use of terminology that is inclusive of:
 ##Challenges
 
 Systems often don't support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards .. However, there are external products available that can support this for both organisations and clients. Capturing pronouns and names for children is a recurring issue for all local authorities.
+
+[Introduction](/index)
+[Previous principle](/principle-3)
+[Next principle](/principle-5)
