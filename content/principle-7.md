@@ -2,11 +2,9 @@
 title: "7. Design systems that secure personal data without inhibiting children’s social care practice"
 ---
 
-##Why is it important
+##Importance of securing personal data
 
 Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. Failing in this duty would undermine public trust in local government services.
-
-##What it means
 
 Local authorities and vendors should:
 
@@ -32,7 +30,7 @@ Local authorities and vendors should:
 
 The underpinning guidance for these standards is available through the [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
-##What compliance should look like
+##Good practice
 
 During procurement,the following should be demonstrated:
 
@@ -42,6 +40,6 @@ During procurement,the following should be demonstrated:
 * how it allows management to deny or permit access without needing assistance from support teams
 * how it handles alerts when access is attempted without permission
 
-##Possible barriers to implementation
+##Challenges
 
 This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system has limited control over this.
