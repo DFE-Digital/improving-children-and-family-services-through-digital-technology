@@ -8,7 +8,7 @@ We have developed a set of design prinicples and guidance on data standards with
 
 Use this guidance alongside existing technical standards, as indicated, to procure and implement children's social care case management systems.
 
-## Reason for key principles
+## Reasons for key principles
 
 We need to make sure technology:
 
