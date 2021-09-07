@@ -1,5 +1,5 @@
 ---
-title: "4. Design systems to be accessible and inclusive"
+title: "Design systems to be accessible and inclusive"
 ---
 
 
