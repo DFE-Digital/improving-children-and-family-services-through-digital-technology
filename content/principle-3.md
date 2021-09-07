@@ -1,5 +1,5 @@
 ---
-title: Principle 3: Design systems that are simple to use 
+title: "Principle 3 Design systems that are simple to use"
 
 ###Why is it important
 
