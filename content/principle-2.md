@@ -7,7 +7,7 @@ title: Principle 2: Design systems to work interoperably (talk to each other)
 Safeguarding and supporting vulnerable children requires a number of organisations working together - for example: 
 
 * the child's responsible local authority
-* other local authorities where the child may have been placed 
+* other local authorities where the child may have been placed
 * partners such as the police, health services and the child's school
 
 Sharing information between organisations is disrupted if the systems holding the information aren’t connected- posing a safeguarding risk. Interoperability is needed to ensure systems within local authorities can join-up to enable the smooth flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
