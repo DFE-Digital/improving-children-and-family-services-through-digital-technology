@@ -1,5 +1,5 @@
 ---
-title: Digital standards
+title: Digital standards for children's social care
 ---
 
 The Department for Education has worked with Local Authorities and others to identify opportunities to improve the quality of children’s social care to improve the lives of children and families. 
