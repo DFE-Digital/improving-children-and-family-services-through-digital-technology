@@ -47,5 +47,7 @@ During procurement, the following should be demonstrated:
 Vendors treat their data structures as intellectual property they own and are not open to share this. It is a commercial issue for them. Local authorities feel vendors may not be inclined to make it easy to use third party products. There are also issues with making older systems connect with newer ones. There are so many different systems and providers being used and different versions available of the same system.This is the same with partner agencies systems linking to social care systems - they need to be enforced.
 
 [Introduction](/index)
+
 [Previous principle](/principle-1)
+
 [Next principle](/principle-3)
