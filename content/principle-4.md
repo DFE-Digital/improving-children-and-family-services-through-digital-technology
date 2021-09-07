@@ -2,11 +2,11 @@
 title: "4. Design systems to be accessible and inclusive"
 ---
 
-##Why is it important
+
+
+##Importance of accessible
 
 Children’s social care digital systems and tools must be accessible, so that anyone can use them anywhere.
-
-##What it means
 
 All case management systems should be designed to meet the needs of a diverse range of users. This includes those with different physical, cultural or learning needs. 
 
@@ -24,7 +24,7 @@ Vendors and local authorities should:
 * make sure people aren’t excluded from using the system because they lack digital skills or internet access (offline working) - appropriate digital support should be provided if necessary 
 * provide evidence of gathering and evaluating user feedback and release of appropriate updates
 
-##Guidance
+##Available guidance
 
 [Testing with assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
 [Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019](https://www.iso.org/standard/77520.html)
@@ -32,7 +32,7 @@ Vendors and local authorities should:
 [Accessibility and assisted digital guidance](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 [DCB1605: Accessible Information](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb1605-accessible-information)
 
-##What should compliance look like
+##Good practice
 
 During procurement, the following should be demonstrated:
 
@@ -51,6 +51,6 @@ Use of terminology that is inclusive of:
 * sexuality
 * gender
 
-##Possible barriers to implementation 
+##Challenges
 
 Systems often don't support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards .. However, there are external products available that can support this for both organisations and clients. Capturing pronouns and names for children is a recurring issue for all local authorities.
