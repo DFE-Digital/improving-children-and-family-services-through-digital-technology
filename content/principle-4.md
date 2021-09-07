@@ -26,11 +26,11 @@ Vendors and local authorities should:
 
 ##Guidance
 
-Testing with assistive technologies
-Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019
-Understanding accessibility requirements for public sector bodie
-Accessibility and assisted digital guidance
-DCB1605: Accessible Information
+[Testing with assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
+[Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019](https://www.iso.org/standard/77520.html)
+[Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
+[Accessibility and assisted digital guidance](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+[DCB1605: Accessible Information](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb1605-accessible-information)
 
 ##What should compliance look like
 
