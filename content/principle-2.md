@@ -1,5 +1,5 @@
 ---
-title: Principle 2: Design systems to work interoperably (talk to each other)
+title: "Principle 2 Design systems to work interoperably"
 ---
 
 ###Why is it important
