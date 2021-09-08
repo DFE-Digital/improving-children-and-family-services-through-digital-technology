@@ -19,7 +19,7 @@ There needs to be consideration of:
 
 There must be a clear understanding of how innovation or technology will result in better provision and outcomes for children.
 
-Local authorities and providers must regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
+Local authorities and suppliers must regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
 
 You should learn as much as possible about the problems facing users by:
 
@@ -27,11 +27,11 @@ You should learn as much as possible about the problems facing users by:
 * building prototypes to test hypotheses and functionality
 * using analytics and other available data to better understand the problem
 
-System providers must work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting Kep Performance Indicators (KPIs). Performance data and reports must be available to monitor and improve the service, this information should be assessed against the KPIs and used to inform iterations and improvements.
+System suppliers must work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting Kep Performance Indicators (KPIs). Performance data and reports must be available to monitor and improve the service, this information should be assessed against the KPIs and used to inform iterations and improvements.
 
-In addition, system providers must show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
+In addition, system suppliers must show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
 
-For this purpose, system providers must demonstrate:
+For this purpose, system suppliers must demonstrate:
 
 * children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
 * CMS functionality is fit for purpose
