@@ -2,24 +2,24 @@
 title: Digital standards for children's social care
 ---
 
-The Department for Education has worked with Local Authorities and others to identify opportunities to improve the quality of children’s social care to improve the lives of children and families. 
+The Department for Education has worked with Local Authorities and case management system providers to identify opportunities to improve the quality of children’s social care and the lives of children and families. 
 
-We have developed a set of design prinicples and guidance on data standards with children social care providers and vendors of existing systems. 
+We have developed a set of design prinicples and wish to build on these by working with the sevtor to offer further support and guidance for Local authorities and system vendors. 
 
-Use this guidance alongside existing technical standards, as indicated, to procure and implement children's social care case management systems.
+Use this guidance alongside existing technical standards, as indicated, to plan, procure and implement children's social care case management systems.
 
 ## Reasons for key principles
 
-We need to make sure technology:
+Case management systems need to:
 
 * meets user needs, based on research with users
-* is easy to share across government (Open Source) 
-* is easy to maintain
-* is scalable for future use
-* is less dependent on single third-party suppliers
-* provides better value for money
+* be is easy to share across government (Open Source) 
+* be is easy to maintain
+* be scalable for future use
+* be less dependent on single third-party suppliers
+* provide value for money
 
-The resources section gives links to existing guidance on digital, data and technology that we refer to throughout these principles and guidance. 
+The resources section gives links to existing guidance on digital, data and technology that we refer to throughout these principles. 
 
 ## Principles
 
