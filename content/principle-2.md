@@ -4,28 +4,27 @@ title: "Design systems to work interoperably"
 
 ##Systems need to talk to each other
 
-Safeguarding and supporting vulnerable children requires a number of organisations working together - for example: 
+Safeguarding and supporting vulnerable children requires a number of organisations to work together. Often information needs to be shared between local authorities and other partners such as the police, health services and the child's school.
 
-* the child's responsible local authority
-* other local authorities where the child may have been placed
-* partners such as the police, health services and the child's school
+Sharing information between organisations is disrupted if the systems holding the information are not connected and this can pose safeguarding risks. 
 
-Sharing information between organisations is disrupted if the systems holding the information aren’t connected- posing a safeguarding risk. Interoperability is needed to ensure systems within local authorities can join-up to enable the smooth flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
+Interoperability is needed to ensure systems within local authorities can be joined-up to enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
 ##Benefits of interoperability
 
 Interoperability allows the exchange and sharing of information between different systems. 
 
-These systems need to be joined up and allow communication across regions and organisations. They should be able to provide the quick and efficient sharing of children and family data. Case management systems should also allow for third party apps to be integrated.
+These systems need to be joined up and allow communication across regions and organisations. Systems should enable quick and efficient sharing of children and family data. Case management systems should also allow for the intergration of third party applications.
 
 Applications, data and processes must work together to make the right information available to the right user at the right time. The systems underpinning this must also be affordable and sustainable. 
 
 ##Use open application programming interfaces (APIs)
 
-Making application functionality easily available – important functionality and information held in one system or department is readily available to another without significant and expensive development effort.
+Having key functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
 
-Choosing the best system for the job – having key functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. Some organisations may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it limits an organisation’s options and flexibility moving forward. Ensuring systems have open API’s means you have flexibility and control, both technically and commercially.
-promoting and accelerating innovation – sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for care workers to use this information to improve child safety. It also allows for the creation of add-on products and services that do not need to be built by the vendor of the primary system. This can often be done quicker and at lower cost.
+Some local authorities may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it limits can limit options and flexibility moving forward. Ensuring systems have open API’s means you have flexibility and control, both technically and commercially.
+
+Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety. It also allows for the creation of add-on products and services to be purchased and intergrated without being tied to a the provider of the primary system. This can often be done quicker and at lower cost.
 
 ##Guidance
 
@@ -40,11 +39,12 @@ During procurement, the following should be demonstrated:
 * how the product can link with early help, virtual school, education, health systems and other existing systems 
 * how the product can link with future systems local authorities might adopt
 * how the product meets the open API standards
-* examples of collaboration or integration and the transfer of information between systems
+* examples of collaboration or integration
+* the transfer of information between systems
 
 ##Challenges
 
-Vendors treat their data structures as intellectual property they own and are not open to share this. It is a commercial issue for them. Local authorities feel vendors may not be inclined to make it easy to use third party products. There are also issues with making older systems connect with newer ones. There are so many different systems and providers being used and different versions available of the same system.This is the same with partner agencies systems linking to social care systems - they need to be enforced.
+Providers may not be inclined to make it easy to develop interoperability with Local Authority developed applications or third party products. Some may come across issues with making older systems connect with newer ones. 
 
 [Introduction](/index)
 
