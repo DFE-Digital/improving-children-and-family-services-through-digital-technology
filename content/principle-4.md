@@ -10,7 +10,7 @@ Children’s social care digital systems and tools must be accessible, so that a
 
 All case management systems should be designed to meet the needs of a diverse range of users. This includes those with different physical, cultural or learning needs. 
 
-Tools and systems must be user -centred and be:
+Tools and systems must be user-centred and be:
 
 * easy to understand
 * easy to use
@@ -18,7 +18,7 @@ Tools and systems must be user -centred and be:
 * meet accessibility standards for both online and offline elements
 * avoid excluding any users they are intended to serve
 
-Vendors and local authorities should:
+Suppliers and local authorities should:
 
 * carry out research with potential users for the service, including people with access needs
 * make sure people aren’t excluded from using the system because they lack digital skills or internet access (offline working) - appropriate digital support should be provided if necessary 
@@ -53,7 +53,7 @@ Use of terminology that is inclusive of:
 
 ##Challenges
 
-Systems often don't support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards .. However, there are external products available that can support this for both organisations and clients. Capturing pronouns and names for children is a recurring issue for all local authorities.
+Systems often do not support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards. There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities.
 
 [Introduction](/index)
 
