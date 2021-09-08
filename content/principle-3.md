@@ -42,7 +42,7 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Competing needs to meet requirements in relation to statutory data returns or court proceedings, for example, and the end-users' needs of the system in supporting good childrens social care practice. 
+Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice. 
 
 [Introduction](/index)
 
