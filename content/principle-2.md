@@ -4,9 +4,9 @@ title: "Design systems to work interoperably"
 
 ##Systems need to talk to each other
 
-Safeguarding and supporting vulnerable children requires a number of organisations to work together. Often information needs to be shared between local authorities and other partners such as the police, health services and schools or colleges.
+Safeguarding and supporting vulnerable children requires a number of organisations to work together. Information needs to be shared between local authorities and other partners such as the police, health services and schools or colleges.
 
-Sharing information between organisations is disrupted if the systems holding the information are not connected and this can pose safeguarding risks. 
+Sharing information between organisations is disrupted if the systems holding the information are not connected. This can also pose safeguarding risks. 
 
 Interoperability is needed to ensure systems within local authorities can be joined-up to enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
@@ -24,7 +24,7 @@ Having key functionality available through an API ensures organisations can inte
 
 Some local authorities may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it limits can limit options and flexibility moving forward. Ensuring systems have open API’s means you have flexibility and control, both technically and commercially.
 
-Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety. It also allows for the creation of add-on products and services to be purchased and intergrated without being tied to a the provider of the primary system. This can often be done quicker and at lower cost.
+Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety. It also allows for the creation of add-on products and services to be purchased and intergrated without being tied to a the supplier of the primary system. This can often be done quicker and at lower cost.
 
 ##Guidance
 
@@ -44,7 +44,7 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Providers may not be inclined to make it easy to develop interoperability with Local Authority developed applications or third party products. Local authorities may also experience challenges making older systems connect with newer ones. 
+Suppliers may not be inclined to make it easy to develop interoperability with Local Authority developed applications or third party products. Local authorities may also experience challenges making older systems connect with newer ones. 
 
 [Introduction](/index)
 
