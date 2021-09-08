@@ -44,7 +44,7 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Providers may not be inclined to make it easy to develop interoperability with Local Authority developed applications or third party products. Some may come across issues with making older systems connect with newer ones. 
+Providers may not be inclined to make it easy to develop interoperability with Local Authority developed applications or third party products. Local authorities may also experience challenges making older systems connect with newer ones. 
 
 [Introduction](/index)
 
