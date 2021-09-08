@@ -4,16 +4,16 @@ title: "Design systems that are simple to use"
 
 ##Keep it simple
 
-It costs local authorities time and money to deal with mistakes that happen when systems do not work well. Making things more complicated than they need to be undermines trust in the system.
+Complicated systems that have not been designed to meet user needs, can be costly in terms of time and money for Local Authorities to implement and can undermine trust in the system and supplier.
 
-Build and procure tools that are clear and simple to use, so that children, families, and practitioners can get things right the first time.
+Building and procuring tools that are clear and simple to use support good children social practices, so that time and money can be spent supporting children and families.
 
-Providers and local authorities should:
+Suppliers and local authorities should:
 
 * ensure the system allows users to do what they need to do as simply as possible
 * regularly test for usability with users of the system
 * ensure all parts of the system are consistent for the user
-* develop the system to work with a range of devices, in particular for mobile working for social workers
+* develop the system to work with a range of devices, e.g. can be used on a social workers mobile device whilst on a visit
 
 ##Available guidance
 
