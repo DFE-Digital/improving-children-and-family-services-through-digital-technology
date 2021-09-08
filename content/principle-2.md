@@ -4,7 +4,7 @@ title: "Design systems to work interoperably"
 
 ##Systems need to talk to each other
 
-Safeguarding and supporting vulnerable children requires a number of organisations to work together. Often information needs to be shared between local authorities and other partners such as the police, health services and the child's school.
+Safeguarding and supporting vulnerable children requires a number of organisations to work together. Often information needs to be shared between local authorities and other partners such as the police, health services and schools or colleges.
 
 Sharing information between organisations is disrupted if the systems holding the information are not connected and this can pose safeguarding risks. 
 
