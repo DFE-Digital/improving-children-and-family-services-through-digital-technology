@@ -4,32 +4,39 @@ title: "Design systems in a user-centred way to meet user needs"
 
 ##Importance of user needs
 
-Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Do not make assumptions. Have empathy for users and remember that what they ask for is not always what they need.
+Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy for users and remember what they want versus what they need may be differ.
 
 ##Focus on end-users
 
 Children’s social care tools and services must be procured, designed, and implemented in response to the practical and emotional needs of the end-user. 
 
-Children's, families’ and social workers’ experiences and abilities, as well as the needs of frontline staff, performance managers and strategic leaders (including DfE and Ofsted), must be addressed.
+There needs to be consideration of:
+
+* the experience of Children, families and social workers
+* the skills and abilities of those using the system
+* the needs of frontline staff, performance managers and strategic leaders
+* the needs of wider stakeholders, including those of DfE and Ofsted
 
 There must be a clear understanding of how innovation or technology will result in better provision and outcomes for children.
-Vendors must regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
 
-Local authorities and vendors should learn as much as possible about the problems facing users by:
+Local authorities and providers must regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
+
+You should learn as much as possible about the problems facing users by:
 
 * doing user research to understand what users need, and where necessary, secondary research and analysis
-* building prototypes to test their hypotheses
+* building prototypes to test hypotheses and functionality
 * using analytics and other available data to better understand the problem
 
-Vendors must work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS. They must publish performance against these KPIs alongside the assessment methodology. This should be linked back to the user need that is being addressed.
-In addition, vendors must show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
+System providers must work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting Kep Performance Indicators (KPIs). Performance data and reports must be available to monitor and improve the service, this information should be assessed against the KPIs and used to inform iterations and improvements.
 
-For this purpose, vendors must also demonstrate that:
+In addition, system providers must show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
 
-* children’s social care expertise (including from children and young people, where applicable - refer to standard 5) has been involved in the design, testing and sign-off of the product
-* CMS functionality is fit for purpose 
-* data is valid, up to date and there’s a plan to make sure it remains up to date
-* post market surveillance is undertaken, and feedback is risk assessed and acted upon
+For this purpose, system providers must demonstrate:
+
+* children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
+* CMS functionality is fit for purpose
+* data is valid, up to date and there’s a maintenance plan in place
+* system surveillance is undertaken, and feedback is risk assessed and acted upon
 
 ##Available guidance
 
@@ -53,7 +60,7 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Different local authorities have users with different needs, abilities, and ways of working which makes standardisation challenging. While this can be achieved to an extent, there would need to be cost and time considerations to allow the systems to be adapted as needed. Procurement is not always user-centred so user needs do not feed though. Understanding the needs of internal users and children and families to allow them to co-create records in an open and transparent manner is a challenge.
+Different local authorities have users with different needs, abilities, and ways of working which makes standardisation challenging. Procurement is not always user-centred, so user needs do not feed though. Understanding the needs of internal users and children and families to allow them to co-create records in an open and transparent manner can be a challenge.
 
 [Introduction](/index)
 
