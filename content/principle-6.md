@@ -35,6 +35,6 @@ Elements that can help (data type flags in the coding and retention) are not alw
 
 [Introduction](/index)
 
-[Previous principle](/principle-5)
+[Previous principle: Design systems that reflect the voice of the child](/principle-5)
 
-[Next principle](/principle-7)
+[Next principle: Design systems that secure personal data without inhibiting children’s social care practice](/principle-7)
