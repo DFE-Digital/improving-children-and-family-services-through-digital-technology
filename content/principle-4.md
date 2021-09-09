@@ -55,6 +55,6 @@ Systems often do not support accessibility tools (for example, screen readers) a
 
 [Introduction](/index)
 
-[Previous principle](/principle-3)
+[Previous principle: Design systems that are simple to use](/principle-3)
 
-[Next principle](/principle-5)
+[Next principle: Design systems that reflect the voice of the child](/principle-5)
