@@ -27,14 +27,14 @@ Local authorities should procure systems where children and young people have be
 
 This should be supported by: 
 
-* training in co-design for staff to involve children and young people in the process
+* training staff in co-design to involve children and young people in the process
 * evaluation and selection processes which are designed and funded to properly involve children and young people 
 
-Vendors should design systems where children and young people have been directly involved (rather than just consulted) in the design and selection process. Features should be specifically designed to capture and reflect the voice of the child.
+Suppliers should design systems where children and young people have been directly involved (rather than just consulted) in the design and selection process. Features should be specifically designed to capture and reflect the voice of the child.
 
 Systems should allow:
 
-* local authorities to see how much direct work with children is taking place and oversight of child centred activity, including outcomes, ambitions and strengths 
+* local authorities to see how much direct work with children is taking place and enable oversight of child centred activities including outcomes, ambitions and strengths 
 * for details to be captured that reflect each individual child - for example ways to describe gender, beliefs and interests
 * social workers to upload a range of media and file sizes
 * for the development of features and functionality which allow children and young people to directly interact with the system 
@@ -50,15 +50,15 @@ Children and young people should be directly involved in measuring the effective
 
 During procurement, the following must be demonstrated:
 
-* the system's ability to clearly identify and report the views of the child - including from them directly and via their care professional 
-* the system supports the upload and storage of a range of materials in different formats to reflect the story of the child and family
-* the system supports and encourages collaboration with children and families
+* the system's ability to clearly identify and report the views of the child - including from them directly and by their social worker (team)
+* that the system supports the upload and storage of a range of materials in different formats to reflect the story of the child and family
+* that the system supports and encourages collaboration with children and families
 * how families and children have access via standard products they use in everyday life
 * how forms and workflows have prompts to make the user input information in a way that it is written directly ‘to the child
 
 ##Challenges
 
-This is about making sure there are options to build into local design if needed, but in some cases this need is met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management systems. 
+This is about making sure there are options to build into local design if needed, but in some cases this need can often be met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management systems. 
 
 [Introduction](/index)
 
