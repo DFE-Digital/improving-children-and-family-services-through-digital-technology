@@ -62,6 +62,6 @@ This is about making sure there are options to build into local design if needed
 
 [Introduction](/index)
 
-[Previous principle](/principle-4)
+[Previous principle: Design systems to be accessible and inclusive](/principle-4)
 
-[Next principle](/principle-6)
+[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
