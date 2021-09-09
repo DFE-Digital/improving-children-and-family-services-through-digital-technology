@@ -6,16 +6,16 @@ title: "Design systems that secure personal data without inhibiting children’s
 
 Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. Failing in this duty would undermine public trust in local government services.
 
-Local authorities and vendors should:
+Local authorities and suppliers should:
 
-* identify security and privacy threats to the service,have a robust approach to securing information and manage fraud risks
+* identify security and privacy threats to the service, have a robust approach to securing information and manage fraud risks
 * have a plan and budget to manage security for the service (for example by responding to new threats, putting controls in place and applying security patches to software)
 * collect and process children and families’ personal information in a way that’s secure and respects their privacy
 * use an approach to identity assurance and authentication, for services that need them, that balances the risks in a proportionate way 
 * work with business and information risk teams (for example, senior information risk owners (SIROs), information asset owners (IAOs) and data guardians) to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
 
-##Data standards and guidance
+##Data standards
 
 1. Handling personal data - Staff ensure that personal data is handled, stored and shared securely and lawfully. 
 2. Being accountable and responsible for personal data - Staff understand that they must handle information responsibly and are accountable for deliberate or avoidable breaches.
@@ -28,11 +28,11 @@ Local authorities and vendors should:
 9. Cyber security planning - A plan is in place for protecting IT systems from cyber threats. This should be based on a proven cyber security framework, reviewed once a year.
 10. IT suppliers are accountable for protecting personal data- IT suppliers are held accountable for protecting the personal data they hold.
 
-The underpinning guidance for these standards is available through the [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
+The detailed guidance for these standards is available through the [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
 ##Good practice
 
-During procurement,the following should be demonstrated:
+During procurement, the following should be demonstrated:
 
 * how the system meets the required standards 
 * how it complies with GDPR
@@ -42,7 +42,7 @@ During procurement,the following should be demonstrated:
 
 ##Challenges
 
-This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system has limited control over this.
+This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system need to have control measures in place to minimise this risk.
 
 [Introduction](/index)
 
