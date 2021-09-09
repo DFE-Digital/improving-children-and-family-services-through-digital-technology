@@ -4,9 +4,9 @@ title: "Design systems that are simple to use"
 
 ##Keep it simple
 
-Complicated systems that have not been designed to meet user needs, can be costly in terms of time and money for Local Authorities to implement and can undermine trust in the system and supplier.
+Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement, and can also undermine trust in the system and supplier.
 
-Building and procuring tools that are clear and simple to use support good children social practices, so that time and money can be spent supporting children and families.
+Building and procuring tools that are clear and simple to use support good children's social practices, so that time and money can be spent supporting children and families.
 
 Suppliers and local authorities should:
 
@@ -42,7 +42,7 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice. 
+Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice and reflect the voice of the child. 
 
 [Introduction](/index)
 
