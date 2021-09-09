@@ -48,6 +48,6 @@ Suppliers may not be inclined to make it easy to develop interoperability with L
 
 [Introduction](/index)
 
-[Previous principle](/principle-1)
+[Previous principle: Design systems in a user-centred way to meet user needs](/principle-1)
 
-[Next principle](/principle-3)
+[Next principle: Design systems that are simple to use](/principle-3)
