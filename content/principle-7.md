@@ -46,4 +46,4 @@ This needs to link to the overall security of systems (for example, where it is 
 
 [Introduction](/index)
 
-[Previous principle](/principle-6)
+[Previous principle: Design systems that include performance analytics for monitoring](/principle-6)
