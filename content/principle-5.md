@@ -4,18 +4,18 @@ title: "Design systems that reflect the voice of the child"
 
 ##Importance of reflecting the voice of the child
 
-To ensure their 'voice' influences the decisions that professionals make, children and young people should have the opportunity to give their input and experiences. They should always be involved and have information fed back to them in a way that they can understand. It is important the child is able to see their voice reflected in their record to help them make sense of their personal story.
+To ensure their thoughts and opinions are considered and influence the decisions that professionals make, children and young people should have the opportunity to input their experiences using their own voice. They should always be involved and have information fed back to them in a way that they can understand. It is important the child is able to see their voice reflected in their record to help them make sense of their personal story.
 
-The child must play an active role in contributing to what is being set up. Social workers need systems that enables them to understand:
+The child must play an active role in contributing to what is being set up. Social workers need systems that enable them to understand:
 
 * what the child's life is like
 * what they do each day
 * how they feel about their lives
 * how they want things to change
 
-Focusing on the child means they feel listened to, and plans are more successful when children and young people are involved. It also support social workers to make prompt decisions about safeguarding risks when necessary.
+Focusing on the child means they feel listened to, and plans are more successful when children and young people are involved. It also supports social workers to make prompt decisions about safeguarding risks when necessary.
 
-Issues identified through Ofsted reviews:
+Issues identified through Ofsted reviews that could be addressed through improved case management systems:
 
 * children are not seen enough by the professionals involved, or asked about their views or feelings
 * agencies do not listen to adults who speak on behalf of the child who may have important information to contribute
@@ -34,12 +34,11 @@ Vendors should design systems where children and young people have been directly
 
 Systems should allow:
 
-* local authorities to see how much direct work with children is taking place
-* for oversight of child centred activity, including outcomes, ambitions and strengths 
-* capture details that reflect each individual child - for example ways to describe gender, beliefs and interests
-* ocial workers to upload a range of media and file sizes
+* local authorities to see how much direct work with children is taking place and oversight of child centred activity, including outcomes, ambitions and strengths 
+* for details to be captured that reflect each individual child - for example ways to describe gender, beliefs and interests
+* social workers to upload a range of media and file sizes
 * for the development of features and functionality which allow children and young people to directly interact with the system 
-* for the development of features that support a range of tools social workers to engage children and young people to communicate and captures their voice in ways which support their personal choices, age, context and abilities 
+* for the development of features that support interoperability between a range of tools social workers may want to employ to engage children and young people to communicate and captures their voice in ways which support their personal choices, age, context and abilities 
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
