@@ -64,4 +64,4 @@ Different local authorities have users with different needs, abilities, and ways
 
 [Introduction](/index)
 
-[Next principle](/principle-2)
+[Next principle: Design systems to work interoperably](/principle-2)
