@@ -46,6 +46,6 @@ Challenges can occur when there are competing requirements. For example, between
 
 [Introduction](/index)
 
-[Previous principle](/principle-2)
+[Previous principle: Design systems to work interoperably](/principle-2)
 
-[Next principle](/principle-4)
+[Next principle: Design systems to be accessible and inclusive](/principle-4)
