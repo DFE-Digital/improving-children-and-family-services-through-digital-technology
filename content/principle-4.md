@@ -2,11 +2,9 @@
 title: "Design systems to be accessible and inclusive"
 ---
 
-
-
 ##Importance of accessible
 
-Children’s social care digital systems and tools must be accessible, so that anyone can use them anywhere.
+Children’s social care case management systems and tools must be accessible, so that anyone can use them anywhere.
 
 All case management systems should be designed to meet the needs of a diverse range of users. This includes those with different physical, cultural or learning needs. 
 
@@ -20,9 +18,9 @@ Tools and systems must be user-centred and be:
 
 Suppliers and local authorities should:
 
-* carry out research with potential users for the service, including people with access needs
-* make sure people aren’t excluded from using the system because they lack digital skills or internet access (offline working) - appropriate digital support should be provided if necessary 
-* provide evidence of gathering and evaluating user feedback and release of appropriate updates
+* carry out research with potential users for the service, including people with a range of accessbility needs
+* make sure people are not excluded from using the system because they lack digital skills or internet access (offline working) - appropriate training and support should be provided if necessary 
+* provide evidence of gathering and evaluating user feedback and release updates to continually improve the service
 
 ##Available guidance
 
@@ -39,9 +37,9 @@ During procurement, the following should be demonstrated:
 * the system works across different devices and is browser based
 * the system supports offline working
 * document storage is included within the system
-* meets current accessibility standards 
-* works with assistive technology
-* children and families can access their records through portals
+* the system meets current accessibility standards 
+* the system works with assistive technology
+* children and families can access their records through portals (or similar)
 
 Use of terminology that is inclusive of:
 
@@ -53,7 +51,7 @@ Use of terminology that is inclusive of:
 
 ##Challenges
 
-Systems often do not support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards. There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities.
+Systems often do not support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards. There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities,
 
 [Introduction](/index)
 
