@@ -6,7 +6,7 @@ The Department for Education has worked with Local Authorities and case manageme
 
 We have developed a set of design prinicples and wish to build on these by working with the sector to offer further support and guidance for Local authorities and system suppliers. 
 
-Use this guidance alongside existing technical standards, as indicated, to plan, procure and implement children's social care case management systems.
+Use this guidance alongside existing technical standards, as indicated, to plan, procure, implement and make improvements to existing children's social care case management systems.
 
 ## Reasons for key principles
 
