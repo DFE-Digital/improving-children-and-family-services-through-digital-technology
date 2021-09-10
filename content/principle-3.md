@@ -17,8 +17,8 @@ Suppliers and local authorities should:
 
 ##Available guidance
 
-[User interface design](https://www.usability.gov/what-and-why/user-interface-design.html)
-[Designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices)
+* [User interface design](https://www.usability.gov/what-and-why/user-interface-design.html)
+* [Designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices)
 
 ##Good practice
 
