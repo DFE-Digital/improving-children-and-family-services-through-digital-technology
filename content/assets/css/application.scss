@@ -300,3 +300,11 @@ main {
 .govuk-header__container {
   border-bottom: 10px solid govuk-colour("pink");
 }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  line-height: 1.2 !important;
+}
