@@ -1,5 +1,5 @@
 ---
-title: "Design systems that reflect the voice of the child"
+title: "Reflecting the voice of the child"
 ---
 
 ##Importance of reflecting the voice of the child
