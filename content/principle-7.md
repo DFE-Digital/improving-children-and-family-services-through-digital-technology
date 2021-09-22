@@ -1,5 +1,5 @@
 ---
-title: "Design systems that secure personal data without inhibiting children’s social care practice"
+title: "Securing personal data without inhibiting children’s social care practice"
 ---
 
 ##Importance of securing personal data
