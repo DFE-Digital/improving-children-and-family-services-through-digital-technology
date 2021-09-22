@@ -35,13 +35,13 @@ For this purpose, system suppliers should demonstrate:
 
 * children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
 * the functions available in the system, along with the information architecture fits the needs of the users and the service
-* data is valid, up to date and there is a maintenance plan in place
+* there is a maintenance plan in place to ensure that data remains up to date
 * how they will monitor the system to identify issues and gather feedback
 * how they will risk assess and prioritise iterations to ensure the system continues to meet user needs throughout the life of the contract
 
 ##Available guidance
 
-Guidance is available on [learning about users and their needs from Government Digital Services](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) including:
+[Government guidance is available on learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) including:
 
 * understanding what users need
 * demonstrating compliance with this standard
