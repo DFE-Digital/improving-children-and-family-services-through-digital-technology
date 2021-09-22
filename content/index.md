@@ -20,7 +20,7 @@ Case management systems need to:
 When we design content management systems, we need to consider each of these areas:
 
 1. [Being user-centred and meeting user needs](/principle-1)
-2. [Interoperability](/principle-2)
+2. [Allowing for interoperability](/principle-2)
 3. [Making it simple to use](/principle-3)
 4. [Accessiblility and inclusivity](/principle-4)
 5. [Reflecting the voice of the child](/principle-5)
