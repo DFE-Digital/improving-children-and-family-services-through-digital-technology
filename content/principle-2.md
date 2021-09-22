@@ -1,5 +1,5 @@
 ---
-title: "Design systems to work interoperably"
+title: "Allowing for interoperably"
 ---
 
 ##Systems need to talk to each other
