@@ -27,12 +27,12 @@ During procurement of case management systems, the following should be demonstra
 * how user feedback has informed changes to the user interface (UI)
 * how it is informed by practice
 * how it meets the requirements for:
-     * less clicks
-     * no unnecessary workflows
-     * easy creation of genograms and chronology
-     * less duplication of effort
-     * consistent terminology
-     * mobile working
+   * less clicks
+   * no unnecessary workflows
+   * easy creation of genograms and chronology
+   * less duplication of effort
+   * consistent terminology
+   * mobile working
 * how easy it is to use and understand (and any training support required) 
 * a consistent approach to data input and workflow, e.g. the edit button is always in the same place 
 * how it can be used on different devices
