@@ -1,5 +1,5 @@
 ---
-title: "Making it simple to use"
+title: "Making systems simple to use"
 ---
 
 ##Keep it simple
