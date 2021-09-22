@@ -1,12 +1,12 @@
 ---
-title: Digital standards for children's social care
+title: Designing case management systems in children's social care
 ---
 
-The Department for Education has worked with local authorities and suppliers to identify opportunities to improve case management systems to better support children’s social care for to improve the lives of children and families. 
+The Department for Education has worked with local authorities and suppliers to identify opportunities to improve case management systems to better support children’s social care and the lives of vulnerable children and families. 
 
-We have developed a set of design principles and wish to build on these by working with the sector to offer further support and guidance for local authorities and system suppliers. 
+We have developed a set of design principles, and will continue to work with the sector to offer further support and guidance for local authorities and system suppliers. 
 
-Use this guidance alongside existing technical standards, as indicated, to plan, procure, implement and make improvements to existing children's social care case management systems.
+Use this guidance alongside existing technical standards, as indicated, to plan, procure, implement and make improvements to children's social care case management systems.
 
 ## Reasons for setting key principles
 
