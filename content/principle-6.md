@@ -4,13 +4,13 @@ title: "Design systems that include performance analytics for monitoring"
 
 ##Importance of data and oversight
 
-Data must be used to inform decision-making at all levels (from frontline workers, to strategic planners) and across the safeguarding partnership.
+Data should be used to inform decision-making at all levels (from frontline workers, to strategic planners) and across the safeguarding partnership.
 
-Analytics should be built-in and easy to read. Performance data and analytics should be made available to improve policy development and transparency.
-
-Systems should collect data that meets statutory guidance and monitors performance, and make it accessible to users.
+Systems should collect data that meets statutory guidance and monitors performance, and makes it accessible to users.
 
 Data can be used more effectively by improving technology, infrastructure, and processes.
+
+Analytics should be built-in and easy to read. Performance data and analytics should be made available to improve policy development and transparency.
 
 Information should be made available for decision-making as close to real-time as possible. 
 
