@@ -21,8 +21,8 @@ Local authorities and suppliers should:
 2. Being accountable and responsible for personal data - Staff understand that they must handle information responsibly and are accountable for deliberate or avoidable breaches.
 3. Regular data security training - All staff complete annual data security training and must pass a mandatory test. Local authorities must support their staff in understanding data security.
 4. Access to child, family and social worker personal data - Personal data can only be accessed by staff who need it, and access is removed when it is no longer required.
-5. Improvement of processes - Processes are reviewed at least once a year to identify and improve processes that have caused data breaches. 
-6. Handling cyber attacks - Cyber-attacks against services are identified and prevented. CareCERT security advice is responded to.
+5. Improvement of processes - Processes are reviewed at least once a year to identify and improve processes that may have caused data breaches. 
+6. Handling cyber attacks - Cyber attacks against services are identified and prevented. CareCERT security advice is responded to.
 7. Data security planning - A plan is in place to respond to threats to data security, including data breaches or near misses, tested once a year. 
 8. Operating systems are approved and certified - No unsupported operating systems, software or internet browsers are used within the IT estate.
 9. Cyber security planning - A plan is in place for protecting IT systems from cyber threats. This should be based on a proven cyber security framework, reviewed once a year.
@@ -35,7 +35,7 @@ The detailed guidance for these standards is available through the [NHS Data Sec
 During procurement, the following should be demonstrated:
 
 * how the system meets the required standards 
-* how it complies with GDPR
+* how it complies with [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 * a clear understanding of what data can be accessed and shared across organisations
 * how it allows management to deny or permit access without needing assistance from support teams
 * how it handles alerts when access is attempted without permission
