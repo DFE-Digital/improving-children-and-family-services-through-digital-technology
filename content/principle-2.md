@@ -12,19 +12,23 @@ Interoperability is needed to ensure systems within local authorities can be joi
 
 ##Benefits of interoperability
 
-Interoperability allows the exchange and sharing of information between different systems. 
+Applications, data and processes must work together to make the right information available to the right user at the right time.
 
-These systems need to be joined up and allow communication across regions and organisations. Systems should enable quick and efficient sharing of children and family data. Case management systems should allow for the intergration of third party applications.
+Interoperability supports:
 
-Applications, data and processes should work together to make the right information available to the right user at the right time. The systems underpinning this should be affordable and sustainable. 
+* the exchange and sharing of information between different systems to allow communication across local authorities and other organisations
+* quick, efficient, appropriate and safe sharing of child and family data
+* the integration of third party applications.   
 
 ##Use open application programming interfaces (APIs)
 
+Application programming interfaces (APIs) allows two applications to communicate with one another to access data.
+
 Having key functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
 
-Some local authorities may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it limits can limit options and flexibility moving forward. Ensuring systems have open API’s means you have flexibility and control, both technically and commercially.
+Some local authorities may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it can limit options and flexibility moving forward. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
 
-Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety. It also allows for the creation of add-on products and services to be purchased and intergrated with third party supplier products. This can often be done quicker and at lower cost.
+Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and intergrated with third party supplier products. APIs often allow this to be done quicker and at a lower cost than other methods.
 
 ##Guidance
 
@@ -36,15 +40,15 @@ Sharing data within different systems helps to promote and support innovation. W
 
 During procurement, the following should be demonstrated:
 
-* how the product can link with early help, virtual school, education, health systems and other existing systems 
+* how the product can link with early help, virtual school, education, health systems and other existing systems, including across mulit-agency partnerships 
 * how the product can link with future systems local authorities might adopt
-* how the product meets the open API standards
+* how the product meets open API standards
 * examples of collaboration or integration
-* the transfer of information between systems
+* the appropriate, secure and transfer of information between systems
 
 ##Challenges
 
-Suppliers may not be inclined to make it easy to develop interoperability with local authority developed applications or third party products. Local authorities may also experience challenges making older systems connect with newer ones. 
+Local authorities may also experience challenges making older systems connect with newer ones. 
 
 [Introduction](/index)
 
