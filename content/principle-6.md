@@ -1,5 +1,5 @@
 ---
-title: "Design systems that include performance analytics for monitoring"
+title: "Monitoring and performance analytics"
 ---
 
 ##Importance of data and oversight
