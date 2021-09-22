@@ -1,5 +1,5 @@
 ---
-title: "Design systems to be accessible and inclusive"
+title: "Accessibility and inclusivity"
 ---
 
 ##Importance of accessiblility
