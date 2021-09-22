@@ -32,7 +32,7 @@ Sharing data within different systems helps to promote and support innovation. W
 
 ##Guidance
 
-* [Open Standards for Government Data and Technology](https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology#recommended-open-standards)
+* [Open standards for government data and technology](https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology#recommended-open-standards)
 * [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
 
