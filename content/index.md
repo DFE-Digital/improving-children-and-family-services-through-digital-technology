@@ -2,7 +2,7 @@
 title: Digital standards for children's social care
 ---
 
-The Department for Education has worked with local authorities and case management system suppliers to identify opportunities to improve the quality of children’s social care case management systems to better support the lives of children and families. 
+The Department for Education has worked with local authorities and suppliers to identify opportunities to improve case management systems to better support children’s social care for to improve the lives of children and families. 
 
 We have developed a set of design principles and wish to build on these by working with the sector to offer further support and guidance for local authorities and system suppliers. 
 
