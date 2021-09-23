@@ -22,7 +22,7 @@ Suppliers and local authorities should:
 
 ##Good practice
 
-During procurement of case management systems, the following should be demonstrated:
+During procurement, the following should be demonstrated:
  
 * how user feedback has informed changes to the user interface (UI)
 * how it is informed by practice
