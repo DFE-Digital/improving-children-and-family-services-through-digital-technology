@@ -9,7 +9,7 @@ Use this guidance alongside existing technical standards (as indicated) to plan,
 Case management systems need to:
 
 * meet user needs, based on research with users
-* support the sharing of information across agencies e.g. health and police 
+* support the sharing of information across agencies, for example health and police 
 * be easy to maintain
 * be scalable for future use
 * allow for intergration with third-party suppliers
@@ -17,7 +17,7 @@ Case management systems need to:
 
 ## Design considerations
 
-When we design content management systems, we need to consider each of the following areas.
+When we design content management systems, we need to consider each of the following areas:
 
 1. [Being user-centred and meeting user needs](/principle-1)
 2. [Supporting interoperability](/principle-2)
