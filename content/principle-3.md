@@ -2,7 +2,7 @@
 title: "Making systems simple to use"
 ---
 
-##Keep it simple
+## Keep it simple
 
 Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the case management system (CMS).
 
@@ -13,14 +13,14 @@ Suppliers and local authorities should:
 * ensure the system allows users to do what they need to do as simply as possible
 * regularly test for usability with users of the system
 * ensure all parts of the system are consistent for the user
-* develop the system to work with a range of devices, e.g.  it can be used on a social worker's mobile device whilst on a visit
+* develop the system to work with a range of devices, for example, it can be used on a social worker's mobile device whilst on a visit
 
-##Available guidance
+## Available guidance
 
 * [User interface design](https://www.usability.gov/what-and-why/user-interface-design.html)
 * [Designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices)
 
-##Good practice
+## Good practice
 
 During procurement of case management systems, the following should be demonstrated:
  
@@ -34,17 +34,17 @@ During procurement of case management systems, the following should be demonstra
    * consistent terminology
    * mobile working
 * how easy it is to use and understand (and any training support required) 
-* a consistent approach to data input and workflow, e.g. the edit button is always in the same place 
+* a consistent approach to data input and workflow, for example, the edit button is always in the same place 
 * how it can be used on different devices
 * how it caters for all abilities 
 * how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4)
 
-##Challenges
+## Challenges
 
 Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice and reflect the voice of the child. 
 
-[Introduction](/index)
+[Next principle: Design systems to be accessible and inclusive](/principle-4)
 
 [Previous principle: Design systems to work interoperably](/principle-2)
 
-[Next principle: Design systems to be accessible and inclusive](/principle-4)
+[Introduction](/index)
