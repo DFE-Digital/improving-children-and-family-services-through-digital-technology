@@ -2,11 +2,11 @@
 title: "Being user-centred and meeting user needs"
 ---
 
-##Importance of user needs
+## Importance of user needs
 
 Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy for users and remember what they want versus what they need may be different.
 
-##Focus on end-users
+## Focus on end-users
 
 Children’s social care tools and services should be procured, designed, and implemented in response to the practical and emotional needs of the end-user. 
 
@@ -27,7 +27,7 @@ You should learn as much as possible about the problems facing users by:
 * building prototypes to test hypotheses and functionality
 * using analytics and other available data to better understand the problem
 
-System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting Key Performance Indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
+System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
 
 In addition, system suppliers should show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
 
@@ -39,7 +39,7 @@ For this purpose, system suppliers should demonstrate:
 * how they will monitor the system to identify issues and gather feedback
 * how they will risk assess and prioritise iterations to ensure the system continues to meet user needs throughout the life of the contract
 
-##Available guidance
+## Available guidance
 
 [Government guidance is available on learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) including:
 
@@ -49,7 +49,7 @@ For this purpose, system suppliers should demonstrate:
 
 The [Service Manual](https://www.gov.uk/service-manual) helps teams to create and run great public services.
 
-##Good practice
+## Good practice
 
 During procurement, the following should be demonstrated: 
 
@@ -59,10 +59,16 @@ During procurement, the following should be demonstrated:
 * how the user needs have been balanced with requirements of the system for strategic and statutory priorities
 * how the system provides easy access to the information the user needs and provides a pathway that matches the local authority’s operational practice
 
-##Challenges
+## Challenges
 
-Different local authorities have users with different needs, abilities, and ways of working, which makes standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the case management system. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
+Different local authorities have users with different:
 
-[Introduction](/index)
+* needs
+* abilities
+* ways of working
+ 
+This can make standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the CMS. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
 
 [Next principle: Design systems to work interoperably](/principle-2)
+
+[Introduction](/index)
