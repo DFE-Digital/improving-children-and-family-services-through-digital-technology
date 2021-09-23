@@ -1,5 +1,5 @@
 ---
-title: Designing case management systems in children's social care
+title: Designing case management systems for children's social care
 ---
 
 We have developed this guidance to help local authorities and suppliers identify opportunities to improve case management systems to better support children’s social care services. We will continue to work with the sector to develop further support and guidance for local authorities and system suppliers to design case management systems that support children's social care best practice. 
