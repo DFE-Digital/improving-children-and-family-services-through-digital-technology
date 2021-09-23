@@ -2,20 +2,20 @@
 title: "Securing personal data without inhibiting children’s social care practice"
 ---
 
-##Importance of securing personal data
+## Importance of securing personal data
 
 Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. Failing in this duty would undermine public trust in local government services.
 
 Local authorities and suppliers should:
 
 * identify security and privacy threats to the service, have a robust approach to securing information and manage fraud risks
-* have a plan and budget to manage security for the service (for example by responding to new threats, putting controls in place and applying security patches to software)
+* have a plan and budget to manage security for the service (for example, by responding to new threats, putting controls in place and applying security patches to software)
 * collect and process children and families’ personal information in a way that’s secure and respects their privacy
 * use an approach to identity assurance and authentication, for services that need them, that balances the risks in a proportionate way 
 * work with business and information risk teams (for example, senior information risk owners (SIROs), information asset owners (IAOs) and data guardians) to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
 
-##Data standards
+## Data standards
 
 1. Handling personal data - Staff ensure that personal data is handled, stored and shared securely and lawfully. 
 2. Being accountable and responsible for personal data - Staff understand that they must handle information responsibly and are accountable for deliberate or avoidable breaches.
@@ -30,7 +30,7 @@ Local authorities and suppliers should:
 
 The detailed guidance for these standards is available through the [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
-##Good practice
+## Good practice
 
 During procurement, the following should be demonstrated:
 
@@ -40,10 +40,10 @@ During procurement, the following should be demonstrated:
 * how it allows management to deny or permit access without needing assistance from support teams
 * how it handles alerts when access is attempted without permission
 
-##Challenges
+## Challenges
 
-This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system need to have control measures in place to minimise this risk.
-
-[Introduction](/index)
+This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system needs to have control measures in place to minimise this risk.
 
 [Previous principle: Design systems that include performance analytics for monitoring](/principle-6)
+
+[Introduction](/index)
