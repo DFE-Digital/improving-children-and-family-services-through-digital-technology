@@ -39,12 +39,8 @@ During procurement of case management systems, the following should be demonstra
 * how it caters for all abilities 
 * how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4)
 
-##Challenges
-
-Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice and reflect the voice of the child. 
-
-[Introduction](/index)
+[Next principle: Design systems to be accessible and inclusive](/principle-4)
 
 [Previous principle: Design systems to work interoperably](/principle-2)
 
-[Next principle: Design systems to be accessible and inclusive](/principle-4)
+[Introduction](/index)
