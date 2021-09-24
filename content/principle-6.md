@@ -2,11 +2,15 @@
 title: "Monitoring and performance analytics"
 ---
 
-##Importance of data and oversight
+## Importance of data and oversight
 
 Data should be used to inform decision-making at all levels (from frontline workers, to strategic planners) and across the safeguarding partnership.
 
-Systems should collect data that meets statutory guidance and monitors performance, and makes it accessible to users.
+Systems should collect data that:
+
+* meets statutory guidance
+* monitors performance
+* is accessible to users
 
 Data can be used more effectively by improving technology, infrastructure, and processes.
 
@@ -14,12 +18,12 @@ Analytics should be built-in and easy to read. Performance data and analytics sh
 
 Information should be made available for decision-making as close to real-time as possible. 
 
-##Available guidance
+## Available guidance
 
 * [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
 * [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
 
-##Good practice
+## Good practice
 
 During procurement, the following should be demonstrated:
 
