@@ -33,10 +33,6 @@ During procurement, the following should be demonstrated:
 * how it allows managers to run reports through a suite of self-service report building tools which can be used at any time
 * that the reporting tool is not process intensive
 
-## Challenges 
-
-Elements that can help (data type flags in the coding and retention) are not always robust or flexible enough to meet expectations. Similar organisations can interpret the same information in different ways. All data requires context or it can lead to misunderstandings.
-
 [Next principle: Design systems that secure personal data without inhibiting children’s social care practice](/principle-7)
 
 [Previous principle: Design systems that reflect the voice of the child](/principle-5)
