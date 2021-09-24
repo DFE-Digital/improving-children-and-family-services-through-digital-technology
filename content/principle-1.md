@@ -59,10 +59,6 @@ During procurement, the following should be demonstrated:
 * how the user needs have been balanced with requirements of the system for strategic and statutory priorities
 * how the system provides easy access to the information the user needs and provides a pathway that matches the local authority’s operational practice
 
-##Challenges
-
-Different local authorities have users with different needs, abilities, and ways of working, which makes standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the case management system. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
+[Next principle: Design systems to work interoperably](/principle-2)
 
 [Introduction](/index)
-
-[Next principle: Design systems to work interoperably](/principle-2)
