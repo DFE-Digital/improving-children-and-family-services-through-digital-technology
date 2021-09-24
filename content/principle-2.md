@@ -1,5 +1,5 @@
 ---
-title: "Supporting interoperably"
+title: "Supporting interoperability"
 ---
 
 ## Systems need to talk to each other
