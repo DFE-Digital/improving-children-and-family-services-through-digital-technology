@@ -2,7 +2,7 @@
 title: "Reflecting the voice of the child"
 ---
 
-##Importance of reflecting the voice of the child
+## Importance of reflecting the voice of the child
 
 Case management systems need to support professionals making decisions about childrens social care by ensuring they allow for the capture of, and accurate reflection on, the experiences, thoughts and opinions of the child or young person. Children and young people should always be involved and have information fed back to them in a way that they can understand. It is important the child or young person is able to see their voice reflected in their record to help them make sense of their personal story.
 
@@ -27,20 +27,25 @@ Suppliers should design systems where children and young people have been direct
 Systems should allow:
 
 * local authorities to see how much direct work with children is taking place and enable oversight of child centred activities including outcomes, ambitions and strengths 
-* for details to be captured that reflect each individual child - for example ways to describe gender, beliefs and interests
+* for details to be captured that reflect each individual child - for example, ways to describe gender, beliefs and interests
 * social workers to upload a range of media and file sizes
 * for the development of features and functionality which allow children and young people to directly interact with the system 
 * for the development of features that support interoperability between a range of tools social workers may want to employ to engage children and young people 
 
-Social workers use a range of tools to communicate and engage with children and young people in ways which support their personal choices, age, context and abilities. 
+Social workers use a range of tools to communicate and engage with children and young people in ways which support their:
+
+* personal choices
+* age
+* context
+* abilities 
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
-##Available guidance
+## Available guidance
 
 (needs adding)
 
-##Good practice
+## Good practice
 
 During procurement, the following should be demonstrated:
 
