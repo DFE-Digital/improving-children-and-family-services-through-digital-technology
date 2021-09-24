@@ -40,6 +40,8 @@ During procurement, the following should be demonstrated:
 * how it allows management to deny or permit access without needing assistance from support teams
 * how it handles alerts when access is attempted without permission
 
+You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
+
 [Previous principle: Design systems that include performance analytics for monitoring](/principle-6)
 
 [Introduction](/index)
