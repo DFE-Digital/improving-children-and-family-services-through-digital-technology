@@ -22,7 +22,7 @@ Suppliers and local authorities should:
 
 ## Good practice
 
-During procurement of case management systems, the following should be demonstrated:
+During procurement, the following should be demonstrated:
  
 * how user feedback has informed changes to the user interface (UI)
 * how it is informed by practice
@@ -38,10 +38,6 @@ During procurement of case management systems, the following should be demonstra
 * how it can be used on different devices
 * how it caters for all abilities 
 * how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4)
-
-## Challenges
-
-Challenges can occur when there are competing requirements. For example, between the need to manage statutory data returns versus meeting the needs of the social worker to access and record information in a way that enables them to deliver good social care practice and reflect the voice of the child. 
 
 [Next principle: Design systems to be accessible and inclusive](/principle-4)
 
