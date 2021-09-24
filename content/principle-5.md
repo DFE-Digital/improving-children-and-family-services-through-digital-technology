@@ -50,12 +50,8 @@ During procurement, the following should be demonstrated:
 * how the system supports families and children to engage with the children's social care services through standard products they use in everyday life
 * how forms and workflows prompt the user to input information in a way that is written directly to the child
 
-##Challenges
-
-This is about making sure there are options to build into local design if needed, but in some cases this need can often be met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management system. 
-
-[Introduction](/index)
+[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
 
 [Previous principle: Design systems to be accessible and inclusive](/principle-4)
 
-[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
+[Introduction](/index)

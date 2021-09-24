@@ -40,10 +40,6 @@ During procurement, the following should be demonstrated:
 * how it allows management to deny or permit access without needing assistance from support teams
 * how it handles alerts when access is attempted without permission
 
-## Challenges
-
-This needs to link to the overall security of systems (for example, where it is hosted). Practice should drive the system, not the other way around. Most data breaches are down to human error so the system needs to have control measures in place to minimise this risk.
-
 [Previous principle: Design systems that include performance analytics for monitoring](/principle-6)
 
 [Introduction](/index)
