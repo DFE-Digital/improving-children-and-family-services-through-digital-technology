@@ -50,10 +50,6 @@ During procurement, the following should be demonstrated:
 * examples of collaboration or integration
 * the appropriate, secure and transfer of information between systems
 
-## Challenges
-
-Local authorities may experience challenges making older systems connect with newer ones. 
-
 [Next principle: Design systems that are simple to use](/principle-3)
 
 [Previous principle: Design systems in a user-centred way to meet user needs](/principle-1)
