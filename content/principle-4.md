@@ -49,15 +49,6 @@ Use of terminology that is inclusive of:
 * sexuality
 * gender
 
-## Challenges
-
-Systems may not:
-
-* support accessibility tools - for example, screen readers
-* be designed to meet current accessibility standards
-
-There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities.
-
 [Next principle: Design systems that reflect the voice of the child](/principle-5)
 
 [Previous principle: Design systems that are simple to use](/principle-3)
