@@ -52,8 +52,8 @@ Use of terminology that is inclusive of:
 
 Systems often do not support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards. There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities.
 
-[Introduction](/index)
+[Next principle: Design systems that reflect the voice of the child](/principle-5)
 
 [Previous principle: Design systems that are simple to use](/principle-3)
 
-[Next principle: Design systems that reflect the voice of the child](/principle-5)
+[Introduction](/index)
