@@ -4,7 +4,7 @@ title: "Reflecting the voice of the child"
 
 ## Importance of reflecting the voice of the child
 
-Case management systems need to support professionals making decisions about childrens social care by ensuring they allow for the capture of, and accurate reflection on, the experiences, thoughts and opinions of the child or young person. Children and young people should always be involved and have information fed back to them in a way that they can understand. It is important the child or young person is able to see their voice reflected in their record to help them make sense of their personal story.
+Case management systems need to support professionals making decisions about children's social care by ensuring they allow for the capture of, and accurate reflection on, the experiences, thoughts and opinions of the child or young person. Children and young people should always be involved and have information fed back to them in a way that they can understand. It is important the child or young person is able to see their voice reflected in their record to help them make sense of their personal story.
 
 Social workers need systems that enable them to understand:
 
