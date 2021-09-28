@@ -4,9 +4,7 @@ title: "Making systems accessible and inclusive"
 
 ## Importance of accessiblility
 
-Children’s social care case management systems and tools must be accessible.
-
-All case management systems should be designed to meet the needs of a diverse range of users. This should take into account their physical locations when working and include their different needs, such as their physical, cultural or learning needs. 
+Children’s social care case management systems and tools must be accessible and designed to meet the needs of a diverse range of users. This should take into account their physical locations when working and include their different needs, such as their physical, cultural or learning needs. 
 
 Tools and systems must be:
 
