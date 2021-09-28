@@ -19,7 +19,7 @@ There needs to be consideration of:
 
 There should be a clear understanding of how innovation and changes to technology will result in better provision and outcomes for children.
 
-Local authorities and suppliers should regularly work with users to assess the design and performance of their case management systems (CMS), and ensure that these assessments inform future iterations.
+Local authorities and suppliers should regularly work with users to assess the design and performance of their case management systems, and ensure that these assessments inform future iterations.
 
 You should learn as much as possible about the problems facing users by:
 
@@ -29,7 +29,7 @@ You should learn as much as possible about the problems facing users by:
 
 System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
 
-In addition, system suppliers should show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
+In addition, system suppliers should show where and how cost savings can be made as a result of the use of their case management system in a children's social care setting.
 
 For this purpose, system suppliers should demonstrate:
 
