@@ -22,7 +22,7 @@ Interoperability supports:
 
 * the exchange and sharing of information between different systems to allow communication across local authorities and other organisations
 * quick, efficient, appropriate and safe sharing of child and family data
-* the integration of third party applications.   
+* the integration of third party applications   
 
 ## Use open application programming interfaces (APIs)
 
