@@ -12,7 +12,7 @@ Local authorities and suppliers should:
 * have a plan and budget to manage security for the service (for example, by responding to new threats, putting controls in place and applying security patches to software)
 * collect and process children and families’ personal information in a way that’s secure and respects their privacy
 * use an approach to identity assurance and authentication, for services that need them, that balances the risks in a proportionate way 
-* work with business and information risk teams (for example, senior information risk owners (SIROs), information asset owners (IAOs) and data guardians) to make sure the service meets security requirements without putting delivery at risk
+* work with business and information risk teams (for example, senior information risk owners, information asset owners and data guardians) to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
 
 ## Data standards
