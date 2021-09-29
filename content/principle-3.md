@@ -4,7 +4,7 @@ title: "Making systems simple to use"
 
 ## Keep it simple
 
-Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the case management system (CMS).
+Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the case management system.
 
 Building and procuring tools that are clear and simple to use support good children's social practices, so that time and money can be spent supporting children and families.
 
@@ -24,7 +24,7 @@ Suppliers and local authorities should:
 
 During procurement, the following should be demonstrated:
  
-* how user feedback has informed changes to the user interface (UI)
+* how user feedback has informed changes to the user interface
 * how it is informed by practice
 * how it meets the requirements for:
    * less clicks
