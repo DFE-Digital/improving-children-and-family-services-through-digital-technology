@@ -4,11 +4,11 @@ title: "Being user-centred and meeting user needs"
 
 ## Importance of user needs
 
-Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy for users and remember what they want versus what they need may be different.
+Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy and remember what users want and what users need may be different
 
-## Focus on end-users
+## Focus on users
 
-Children’s social care tools and services should be procured, designed, and implemented in response to the practical and emotional needs of the end-user. 
+Children’s social care tools and services should be procured, designed, and implemented in response to the practical and emotional needs of the users.
 
 There needs to be consideration of:
 
@@ -16,16 +16,19 @@ There needs to be consideration of:
 * the experience of social care professionals seeking to meet children's needs
 * the skills and abilities of the different people who will use the system, including performance managers and strategic leaders
 * how the outputs from the system will be used, such as for reporting to Department for Education or to prepare for an Ofsted inspection
+* how the system needs to interact with others, such as adult social service systems, to support user journeys
 
 There should be a clear understanding of how innovation and changes to technology will result in better provision and outcomes for children.
 
 Local authorities and suppliers should regularly work with users to assess the design and performance of their case management systems, and ensure that these assessments inform future iterations.
 
-You should learn as much as possible about the problems facing users by:
+Local authorities and suppliers should learn as much as possible about the problems facing users by:
 
 * doing user research to understand what users need, and where necessary, secondary research and analysis
 * building prototypes to test hypotheses and functionality
 * using analytics and other available data to better understand the problem
+
+## Measuring system and service performance
 
 System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
 
@@ -34,10 +37,11 @@ In addition, system suppliers should show where and how cost savings can be made
 For this purpose, system suppliers should demonstrate:
 
 * children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
-* the functions available in the system, along with the information architecture fits the needs of the users and the service
+* the functions available in the system, along with how the information architecture fits the needs of the users and the service
 * there is a maintenance plan in place to ensure that data remains up to date
 * how they will monitor the system to identify issues and gather feedback
 * how they will risk assess and prioritise iterations to ensure the system continues to meet user needs throughout the life of the contract
+* how the system will ensure data security and adherence to the data protection regulations
 
 ## Available guidance
 
