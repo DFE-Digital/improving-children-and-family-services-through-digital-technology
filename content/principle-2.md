@@ -54,7 +54,7 @@ During procurement, the following should be demonstrated:
 * how the product can link with future systems local authorities might adopt
 * how the product meets open API standards
 * examples of collaboration or integration
-* the appropriate, secure and transfer of information between systems
+* the appropriate and secure transfer of information between systems
 * how the system will support local authorities meet [data protection regulations standards](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 [Next principle: Design systems that are simple to use](/principle-3)
