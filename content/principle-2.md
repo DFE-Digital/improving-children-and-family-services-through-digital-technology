@@ -40,6 +40,12 @@ Sharing data within different systems helps to promote and support innovation. W
 * [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
 
+$CTA
+
+Local authorities must ensure that they meet with [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/).
+
+$CTA
+
 ## Good practice
 
 During procurement, the following should be demonstrated:
@@ -49,6 +55,7 @@ During procurement, the following should be demonstrated:
 * how the product meets open API standards
 * examples of collaboration or integration
 * the appropriate, secure and transfer of information between systems
+* how the system will support local authorities meet [data protection regulations standards](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 [Next principle: Design systems that are simple to use](/principle-3)
 
