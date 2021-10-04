@@ -6,7 +6,7 @@ title: "Making systems simple to use"
 
 Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the case management system.
 
-Building and procuring tools that are clear and simple to use support good children's social practices, so that time and money can be spent supporting children and families.
+Building and procuring tools that are clear and simple to use support good children's social care practices, so that time and money can be spent supporting children and families.
 
 Suppliers and local authorities should:
 
@@ -25,7 +25,7 @@ Suppliers and local authorities should:
 During procurement, the following should be demonstrated:
  
 * how user feedback has informed changes to the user interface
-* how it is informed by practice
+* how it is informed by children's social care practice
 * how it meets the requirements for:
    * less clicks
    * no unnecessary workflows
@@ -37,7 +37,7 @@ During procurement, the following should be demonstrated:
 * a consistent approach to data input and workflow, for example, the edit button is always in the same place 
 * how it can be used on different devices
 * how it caters for all abilities 
-* how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4)
+* how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4))
 
 [Next principle: Design systems to be accessible and inclusive](/principle-4)
 
