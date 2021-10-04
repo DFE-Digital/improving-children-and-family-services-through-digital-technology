@@ -42,7 +42,7 @@ Sharing data within different systems helps to promote and support innovation. W
 
 $CTA
 
-Local authorities must ensure that they meet with [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/).
+Local authorities must ensure that they, and any systems they use, meet [data protection regulation standards](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
 $CTA
 
@@ -55,7 +55,7 @@ During procurement, the following should be demonstrated:
 * how the product meets open API standards
 * examples of collaboration or integration
 * the appropriate and secure transfer of information between systems
-* how the system will support local authorities meet [data protection regulations standards](https://ico.org.uk/for-organisations/guide-to-data-protection/)
+* how the system will support local authorities meet [data protection regulation standards](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 [Next principle: Design systems that are simple to use](/principle-3)
 
