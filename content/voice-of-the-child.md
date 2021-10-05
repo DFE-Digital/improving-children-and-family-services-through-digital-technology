@@ -80,7 +80,7 @@ Practitioners should:
 
 Local Safeguarding Children Boards should consider how children who are home educated can receive the same safeguards as their peers. 
 
-##Focus on the child, rather than the needs of parents and carers
+##Understand the needs of the child, alongside the needs of the parent or carer
 
 Practitioners should:
 
@@ -122,7 +122,7 @@ Systems should allow for practitioners to accurately capture the voice of the ch
 * reflect and record their assessments ahead of making any recommendations
 * communicate information more widely, where appropriate
 
-%CTA
+$CTA
 
 [Guidance on improving case management systems for children’s social care](https://buy-digital-technology-for-childrens-social-care.netlify.app/)
 
