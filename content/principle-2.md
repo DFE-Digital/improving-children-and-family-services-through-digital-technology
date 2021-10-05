@@ -40,11 +40,7 @@ Sharing data within different systems helps to promote and support innovation. W
 * [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
 
-$CTA
-
-Local authorities must ensure that they, and any systems they use, meet [data protection regulation standards](https://ico.org.uk/for-organisations/guide-to-data-protection/).
-
-$CTA
+%Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
 ## Good practice
 
