@@ -29,6 +29,7 @@ Systems should allow:
 * local authorities to see how much direct work with children is taking place and enable oversight of child centred activities including outcomes, ambitions and strengths 
 * for details to be captured that reflect each individual child - for example, ways to describe gender, beliefs and interests
 * social workers to upload a range of media and file sizes
+* for details to be captured from other agencies, family members and others, such as teachers or members of the public
 * for the development of features and functionality which allow children and young people to directly interact with the system 
 * for the development of features that support interoperability between a range of tools social workers may want to employ to engage children and young people 
 
@@ -53,8 +54,8 @@ During procurement, the following should be demonstrated:
 
 * the system's ability to clearly identify and report the views of the child - including from them directly and by their social worker (team)
 * that the system supports the upload and storage of a range of materials in different formats to reflect the story of the child and family
-* that the system supports and encourages collaboration with children and families
-* how the system supports families and children to engage with the children's social care services through standard products they use in everyday life
+* that the system supports and encourages collaboration with children, families and others
+* how the system supports children, families and others to engage with the children's social care services through standard products they use in everyday life
 * how forms and workflows prompt the user to input information in a way that is written directly to the child
 
 [Next principle: Design systems that include performance analytics for monitoring](/principle-6)
