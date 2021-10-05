@@ -41,9 +41,11 @@ Social workers use a range of tools to communicate and engage with children and 
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
-## Available guidance
+$CTA
 
-(needs adding)
+[Guidance: Voice of the child](/voice-of-the-child)
+
+$CTA
 
 ## Good practice
 
