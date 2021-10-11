@@ -23,6 +23,6 @@ When we design case management systems, we need to consider each of the followin
 2. [Systems need to talk to each other](/principle-2)
 3. [Making systems simple to use](/principle-3)
 4. [Making systems accessible and inclusive](/principle-4)
-5. [Reflecting the voice of the child](/principle-5)
+5. [Capturing and reflecting the voice of the child](/principle-5)
 6. [Monitoring and performance analytics](principle-6)
 7. [Securing personal data without inhibiting children’s social care practice](principle-7)
