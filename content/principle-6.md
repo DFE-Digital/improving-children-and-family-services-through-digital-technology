@@ -2,9 +2,7 @@
 title: "Monitoring and performance analytics"
 ---
 
-## Importance of data and oversight
-
-Data should be used to inform decision-making at all levels (from frontline workers, to strategic planners) and across the safeguarding partnership.
+Data should be used to inform decision-making at all levels, from frontline workers, to strategic planners, and across the safeguarding partnership.
 
 Systems should collect data that:
 
@@ -29,7 +27,7 @@ During procurement, the following should be demonstrated:
 
 * how the system provides appropriate controlled access to the data through reports and data warehouse
 * how it can run reports directly from the system
-* how it can connect to data warehouse and other products such as PowerBI (if needed)
+* how it can connect to data warehouse and other products such as PowerBI, where needed
 * how it allows managers to run reports through a suite of self-service report building tools which can be used at any time
 * that the reporting tool is not process intensive
 
