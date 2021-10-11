@@ -2,18 +2,16 @@
 title: "Making systems simple to use"
 ---
 
-## Keep it simple
+Complicated case management systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the system.
 
-Complicated systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the case management system.
-
-Building and procuring tools that are clear and simple to use support good children's social care practices, so that time and money can be spent supporting children and families.
+Building and procuring tools that are clear and simple to use supports good children's social care practices, so that time and money can be spent supporting children and families.
 
 Suppliers and local authorities should:
 
 * ensure the system allows users to do what they need to do as simply as possible
 * regularly test for usability with users of the system
-* ensure all parts of the system are consistent for the user
-* develop the system to work with a range of devices, for example, it can be used on a social worker's mobile device whilst on a visit
+* ensure all parts of the system are consistent
+* develop the system to work with a range of devices, for example, to be used on a social worker's mobile device whilst on a visit
 
 ## Available guidance
 
@@ -27,13 +25,13 @@ During procurement, the following should be demonstrated:
 * how user feedback has informed changes to the user interface
 * how it is informed by children's social care practice
 * how it meets the requirements for:
-   * less clicks
    * no unnecessary workflows
    * easy creation of genograms and chronology
    * less duplication of effort
    * consistent terminology
    * mobile working
-* how easy it is to use and understand (and any training support required) 
+* how easy it is to use and understand
+* any training support required
 * a consistent approach to data input and workflow, for example, the edit button is always in the same place 
 * how it can be used on different devices
 * how it caters for all abilities 
