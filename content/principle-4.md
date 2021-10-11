@@ -2,9 +2,7 @@
 title: "Making systems accessible and inclusive"
 ---
 
-## Importance of accessibility
-
-Children’s social care case management systems and tools must be accessible and designed to meet the needs of a diverse range of users. This should take into account their physical locations when working and include their different needs, such as their physical, cultural or learning needs. 
+By law, children’s social care case management systems and tools must be accessible and designed to meet the needs of a diverse range of users. This should take into account their physical locations when working and include their different needs, such as their physical, cultural or learning needs. 
 
 Tools and systems must be:
 
@@ -13,12 +11,16 @@ Tools and systems must be:
 * meet accessibility standards for both online and offline elements
 * avoid excluding any users they are intended to serve
 
+$CTA
+Local authorities (as a public bodies) have a [legal duty](https://www.legislation.gov.uk/uksi/2018/852/contents/made) to meet [web content accessibility standards](https://www.w3.org/WAI/WCAG2AA-Conformance). 
+$CTA
+
 Suppliers and local authorities should:
 
 * carry out research with potential users for the service, including people with a range of accessibility needs
-* make sure people are not excluded from using the system because they lack digital skills or internet access (offline working) - appropriate training and support should be provided if necessary 
+* make sure people are not excluded from using the system because they lack digital skills or internet access (offline working) appropriate training and support should be provided if necessary 
 * provide evidence of gathering and evaluating user feedback on the accessibility and inclusivity of systems
-* release updates to continually improve the accessibility of the service
+* release updates to continually improve the accessibility of the system
 
 ## Available guidance
 
@@ -41,11 +43,18 @@ During procurement, the following should be demonstrated:
 
 Use of terminology that is inclusive of:
 
-* religion
-* nationality
+* age
 * disability
-* sexuality
-* gender
+* gender reassignment
+* marriage and civil partnership
+* pregnancy and maternity
+* race
+* religion or belief
+* sex
+
+$CTA
+Local authorities need to consider their duties under the [Equality Act](https://www.legislation.gov.uk/ukpga/2010/15/contents).
+$CTA
 
 [Next principle: Design systems that reflect the voice of the child](/principle-5)
 
