@@ -31,8 +31,8 @@ During procurement, the following should be demonstrated:
 * how it allows managers to run reports through a suite of self-service report building tools which can be used at any time
 * that the reporting tool is not process intensive
 
-[Next principle: Design systems that secure personal data without inhibiting children’s social care practice](/principle-7)
+[Next principle: securing personal data without inhibiting children’s social care practice](/principle-7)
 
-[Previous principle: Design systems that reflect the voice of the child](/principle-5)
+[Previous principle: capturing and reflecting the voice of the child](/principle-5)
 
 [Introduction](/index)
