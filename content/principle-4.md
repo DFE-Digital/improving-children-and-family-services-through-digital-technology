@@ -56,8 +56,8 @@ $CTA
 Local authorities need to consider their duties under the [Equality Act](https://www.legislation.gov.uk/ukpga/2010/15/contents).
 $CTA
 
-[Next principle: Design systems that reflect the voice of the child](/principle-5)
+[Next: Capturing and reflecting the voice of the child](/principle-5)
 
-[Previous principle: Design systems that are simple to use](/principle-3)
+[Previous: Making systems simple to use](/principle-3)
 
 [Introduction](/index)
