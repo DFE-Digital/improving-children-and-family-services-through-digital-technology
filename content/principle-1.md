@@ -28,9 +28,9 @@ Local authorities and suppliers should learn as much as possible about the probl
 
 ## Measuring system and service performance
 
-System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
+System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the case management systyems, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
 
-In addition, system suppliers should show where and how cost savings can be made as a result of the use of their case management system in a children's social care setting.
+In addition, suppliers should show where and how cost savings can be made as a result of the use of their case management system in a children's social care setting.
 
 For this purpose, system suppliers should demonstrate:
 
@@ -56,7 +56,7 @@ The [Service Manual](https://www.gov.uk/service-manual) helps teams to create an
 During procurement, the following should be demonstrated: 
 
 * how the design and implementation will be tested and iterated throughout the contract to ensure it continues to meet user needs
-* what social work input there has been in the design of the product
+* what social worker input there has been in the design of the product
 * what service user input there has been in developing the system
 * how the user needs have been balanced with requirements of the system for strategic and statutory priorities
 * how the system provides easy access to the information the user needs and provides a pathway that matches the local authority’s operational practice
