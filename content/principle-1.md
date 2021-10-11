@@ -61,6 +61,6 @@ During procurement, the following should be demonstrated:
 * how the user needs have been balanced with requirements of the system for strategic and statutory priorities
 * how the system provides easy access to the information the user needs and provides a pathway that matches the local authority’s operational practice
 
-[Next principle: Design systems to work interoperably](/principle-2)
+[Next: Systems need to talk to each other](/principle-2)
 
 [Introduction](/index)
