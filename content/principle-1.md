@@ -2,13 +2,11 @@
 title: "Being user-centred and meeting user needs"
 ---
 
-## Importance of user needs
-
-Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting these needs in a simple and cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy and remember what users want and what users need may be different
+Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting those needs in a simple, cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy and remember what users want and what users need may be different
 
 ## Focus on users
 
-Children’s social care tools and services should be procured, designed, and implemented in response to the practical and emotional needs of the users.
+Children’s social care tools and systems should be procured, designed, and implemented in response to the practical and emotional needs of the users.
 
 There needs to be consideration of:
 
