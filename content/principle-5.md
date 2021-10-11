@@ -1,5 +1,5 @@
 ---
-title: "Reflecting the voice of the child"
+title: "Capturing and reflecting the voice of the child"
 ---
 
 Case management systems need to support professionals making decisions about children's social care by ensuring they allow for the capture of, and accurate reflection on, the experiences, thoughts and opinions of the child or young person. Children and young people should always be involved and have information fed back to them in a way that they can understand. It is important the child or young person is able to see their voice reflected in their record to help them make sense of their personal story.
@@ -62,8 +62,8 @@ During procurement, the following should be demonstrated:
 * how the system supports children, families and others to engage with the children's social care services through standard products they use in everyday life
 * how forms and workflows prompt the user to input information in a way that is written directly to the child
 
-[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
+[Next: monitoring and performance analytics](/principle-6)
 
-[Previous principle: Design systems to be accessible and inclusive](/principle-4)
+[Previous: making systems accessible and inclusive](/principle-4)
 
 [Introduction](/index)
