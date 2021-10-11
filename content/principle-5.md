@@ -2,8 +2,6 @@
 title: "Reflecting the voice of the child"
 ---
 
-## Importance of reflecting the voice of the child
-
 Case management systems need to support professionals making decisions about children's social care by ensuring they allow for the capture of, and accurate reflection on, the experiences, thoughts and opinions of the child or young person. Children and young people should always be involved and have information fed back to them in a way that they can understand. It is important the child or young person is able to see their voice reflected in their record to help them make sense of their personal story.
 
 ## Social workers
@@ -19,7 +17,7 @@ Focusing on the child means they feel listened to, and plans are more successful
 
 $CTA
 
-[Guidance: Voice of the child](/voice-of-the-child)
+Local authorities must consider their duties under the [Children act](https://www.legislation.gov.uk/ukpga/1989/41/contents) as detailed in the statutory guidance [Working to safeguard children](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2).
 
 $CTA
 
@@ -41,14 +39,14 @@ This should be supported by:
 * training staff in co-design to involve children and young people in the process
 * evaluation and selection processes which are designed and funded to properly involve children and young people 
 
-## Suppliers fo case management systems
+## Suppliers of case management systems
 
 Suppliers should design systems where children and young people have been directly involved (rather than just consulted) in the design and selection process. Features should be specifically designed to capture and reflect the voice of the child.
 
 Systems should allow:
 
 * local authorities to see how much direct work with children is taking place and enable oversight of child centred activities including outcomes, ambitions and strengths 
-* for details to be captured that reflect each individual child - for example, ways to describe gender, beliefs and interests
+* for details to be captured that reflect each individual child, for example, ways to describe gender, beliefs and interests
 * social workers to upload a range of media and file sizes
 * for details to be captured from other agencies, family members and others, such as teachers or members of the public
 * for the development of features and functionality which allow children and young people to directly interact with the system 
@@ -58,7 +56,7 @@ Systems should allow:
 
 During procurement, the following should be demonstrated:
 
-* the system's ability to clearly identify and report the views of the child - including from them directly and by their social worker (team)
+* the system's ability to clearly identify and report the views of the child, including from them directly and by their social worker
 * that the system supports the upload and storage of a range of materials in different formats to reflect the story of the child and family
 * that the system supports and encourages collaboration with children, families and others
 * how the system supports children, families and others to engage with the children's social care services through standard products they use in everyday life
