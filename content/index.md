@@ -20,7 +20,7 @@ Case management systems need to:
 When we design case management systems, we need to consider each of the following areas:
 
 1. [Being user-centred and meeting user needs](/principle-1)
-2. [Supporting interoperability](/principle-2)
+2. [Systems need to talk to each other](/principle-2)
 3. [Making systems simple to use](/principle-3)
 4. [Making systems accessible and inclusive](/principle-4)
 5. [Reflecting the voice of the child](/principle-5)
