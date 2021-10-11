@@ -53,8 +53,8 @@ During procurement, the following should be demonstrated:
 * the appropriate and secure transfer of information between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
-[Next: Design systems that are simple to use](/principle-3)
+[Next: making systems simple to use](/principle-3)
 
-[Previous: Design systems in a user-centred way to meet user needs](/principle-1)
+[Previous: being user-centred and meeting user needs](/principle-1)
 
 [Introduction](/index)
