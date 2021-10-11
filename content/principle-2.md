@@ -1,8 +1,8 @@
 ---
-title: "Supporting interoperability"
+title: "Systems need to talk to each other"
 ---
 
-## Systems need to talk to each other
+## Supporting interoperability
 
 Safeguarding and supporting vulnerable children requires a number of organisations to work together. Information needs to be shared between local authorities and other partners such as:
 
@@ -14,25 +14,25 @@ Sharing information between organisations is disrupted if the systems holding th
 
 Interoperability is needed to ensure systems within local authorities can be joined-up to enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
-## Benefits of interoperability
-
 Applications, data and processes must work together to make the right information available to the right user at the right time.
+
+## Benefits of interoperability
 
 Interoperability supports:
 
 * the exchange and sharing of information between different systems to allow communication across local authorities and other organisations
 * quick, efficient, appropriate and safe sharing of child and family data
-* the integration of third party applications   
+* the integration of third-party applications   
 
 ## Use open application programming interfaces (APIs)
 
-Application programming interfaces (APIs) allows 2 applications to communicate with one another to access data.
+Application programming interfaces (APIs) allow 2 applications to communicate with one another to access data.
 
 Having key functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
 
-Some local authorities may already have systems providing ‘end to end’ functionality that do not require additional integration work. This is an acceptable approach, however it can limit options and flexibility moving forward. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
+Some local authorities may already have systems providing ‘end to end’ functionality that do not require extra integration work. This is an acceptable approach, however it can limit options and flexibility in the future. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
 
-Sharing data within different systems helps to promote and support innovation. With appropriate controls in place, it’s easier for social care workers to use this information to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and intergrated with third party supplier products. APIs often allow this to be done quicker and at a lower cost than other methods.
+Sharing data between different systems, with appropriate controls in place, makes it easier for social care workers to ensure information is used to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and integrated with third-party supplier's products. APIs often allow this to be done quicker and at a lower cost than other methods.
 
 ## Guidance
 
@@ -46,12 +46,12 @@ Sharing data within different systems helps to promote and support innovation. W
 
 During procurement, the following should be demonstrated:
 
-* how the product can link with early help, virtual school, education, health systems and other existing systems, including across mulit-agency partnerships 
+* how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
 * how the product can link with future systems local authorities might adopt
 * how the product meets open API standards
 * examples of collaboration or integration
 * the appropriate and secure transfer of information between systems
-* how the system will support local authorities to meet [data protection regulation standards](https://ico.org.uk/for-organisations/guide-to-data-protection/)
+* how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 [Next principle: Design systems that are simple to use](/principle-3)
 
