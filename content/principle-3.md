@@ -37,8 +37,8 @@ During procurement, the following should be demonstrated:
 * how it caters for all abilities 
 * how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4))
 
-[Next: Design systems to be accessible and inclusive](/principle-4)
+[Next: make systems accessible and inclusive](/principle-4)
 
-[Previous: Systems need to talk to each other](/principle-2)
+[Previous: systems need to talk to each other](/principle-2)
 
 [Introduction](/index)
