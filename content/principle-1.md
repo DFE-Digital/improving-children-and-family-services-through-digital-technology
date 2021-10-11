@@ -2,7 +2,7 @@
 title: "Being user-centred and meeting user needs"
 ---
 
-Service design starts with identifying user needs. Understanding the context gives you the best chance of meeting those needs in a simple, cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy and remember what users want and what users need may be different
+Designing a digital service, such as a case management system, start with identifying user needs. Understanding the context gives you the best chance of meeting those needs in a simple, cost effective way. If you do not know what the user’s needs are, you will not build the right thing. Do research, analyse data and talk to users. Test assumptions and hypotheses. Have empathy and remember what users want and what users need may be different.
 
 ## Focus on users
 
