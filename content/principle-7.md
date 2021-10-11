@@ -40,6 +40,6 @@ During procurement, the following should be demonstrated:
 
 You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
 
-[Previous principle: Design systems that include performance analytics for monitoring](/principle-6)
+[Previous principle: monitoring and performance analytics](/principle-6)
 
 [Introduction](/index)
