@@ -12,7 +12,7 @@ Tools and systems must be:
 * avoid excluding any users they are intended to serve
 
 $CTA
-Local authorities (as a public bodies) have a [legal duty](https://www.legislation.gov.uk/uksi/2018/852/contents/made) to meet [web content accessibility standards](https://www.w3.org/WAI/WCAG2AA-Conformance). 
+Local authorities (as public bodies) have a [legal duty](https://www.legislation.gov.uk/uksi/2018/852/contents/made) to meet [web content accessibility standards](https://www.w3.org/WAI/WCAG2AA-Conformance). 
 $CTA
 
 Suppliers and local authorities should:
