@@ -4,7 +4,7 @@ title: "Systems need to talk to each other"
 
 ## Supporting interoperability
 
-Safeguarding and supporting vulnerable children requires a number of organisations to work together. Information needs to be shared between local authorities and other partners such as:
+Safeguarding and supporting vulnerable children requires many organisations to work together. Information needs to be shared between local authorities and other partners such as:
 
 * the police
 * health services
@@ -12,7 +12,7 @@ Safeguarding and supporting vulnerable children requires a number of organisatio
 
 Sharing information between organisations is disrupted if the systems holding the information are not connected. This can pose safeguarding risks. 
 
-Interoperability is needed to ensure systems within local authorities can be joined-up to enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
+Interoperability is needed to ensure systems within local authorities can be joined-up and enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
 Applications, data and processes must work together to make the right information available to the right user at the right time.
 
@@ -28,7 +28,7 @@ Interoperability supports:
 
 Application programming interfaces (APIs) allow 2 applications to communicate with one another to access data.
 
-Having key functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
+Having functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
 
 Some local authorities may already have systems providing ‘end to end’ functionality that do not require extra integration work. This is an acceptable approach, however it can limit options and flexibility in the future. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
 
@@ -44,7 +44,7 @@ Sharing data between different systems, with appropriate controls in place, make
 
 ## Good practice
 
-During procurement, the following should be demonstrated:
+During procurement you should demonstrate:
 
 * how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
 * how the product can link with future systems local authorities might adopt
