@@ -18,8 +18,9 @@ $CTA
 Suppliers and local authorities should:
 
 * carry out research with potential users for the service, including people with a range of accessibility needs
-* make sure people are not excluded from using the system because they lack digital skills or internet access (offline working) appropriate training and support should be provided if necessary 
-* provide evidence of gathering and evaluating user feedback on the accessibility and inclusivity of systems
+* make sure people are not excluded from using the system because they lack digital skills or internet access
+* deliver appropriate training and support where necessary
+* gather evidence of user feedback on the accessibility and inclusivity of systems
 * release updates to continually improve the accessibility of the system
 
 ## Available guidance
