@@ -52,7 +52,7 @@ Systems should allow:
 * for the development of features and functionality which allow children and young people to directly interact with the system 
 * for the development of features that support interoperability between a range of tools social workers may want to employ to engage children and young people 
 
-## Good practice
+## Procurement considerations
 
 During procurement, the following should be demonstrated:
 
