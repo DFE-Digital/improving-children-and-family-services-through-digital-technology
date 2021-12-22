@@ -1,45 +1,53 @@
 ---
-title: "Securing personal data without inhibiting children’s social care practice"
+title: "Monitoring, measuring and continuous improvement"
 ---
 
-Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. Failing in this duty would undermine public trust in local government services.
+Suppliers and developers should set out the measures that will be used to assess outcomes and set key performance indicators (KPIs). Performance data must be available to monitor and improve the service. This information should be assessed against the KPIs to inform iterations. 
 
-Local authorities and suppliers should:
+In addition, suppliers should show how efficient their case management system is. For this purpose, they should demonstrate:
 
-* identify security and privacy threats to the service, have a robust approach to securing information and manage fraud risks
-* have a plan and budget to manage security for the service, for example, by responding to new threats, putting controls in place and applying security patches to software
-* collect and process children and families’ personal information in a way that’s secure and respects their privacy
-* identity assurance and authentication, for services that need them, that balances the risks in a proportionate way 
-* work with business and information risk teams, for example, senior information risk owners, information asset owners and data guardians to make sure the service meets security requirements without putting delivery at risk
-* carry out appropriate vulnerability and penetration testing
+* children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
+* the functions available in the system
+* there is a plan to ensure the system remains up to date
+* how they will monitor the system to identify issues and gather feedback
+* how they will risk assess and prioritise iterations to ensure the system continues to meet user needs throughout the contract
+* how the system ensures data security and adheres  to  data protection regulations
 
-## Data standards
+Local authorities should involve children and young people directly in the design of their services and systems. Use assessment criteria that  includes outcome and impact measures created from the child’s or young person’s perspective.
 
-1. Handling personal data. Staff ensure that personal data is handled, stored and shared securely and lawfully. 
-2. Being accountable and responsible for personal data. Staff understand that they must handle information responsibly and are accountable for deliberate or avoidable breaches.
-3. Regular data security training. All staff complete annual data security training and must pass a mandatory test. Local authorities must support their staff in understanding data security.
-4. Access to child, family and social worker personal data. Personal data can only be accessed by staff who need it, and access is removed when it is no longer required.
-5. Improvement of processes. Processes are reviewed at least once a year to identify and improve processes that may have caused data breaches. 
-6. Handling cyber attacks. Cyber attacks against services are identified and prevented. CareCERT security advice is responded to.
-7. Data security planning. A plan is in place to respond to threats to data security, including data breaches or near misses, tested once a year. 
-8. Operating systems are approved and certified. No unsupported operating systems, software or internet browsers are used within the IT estate.
-9. Cyber security planning. A plan is in place for protecting IT systems from cyber threats. This should be based on a proven cyber security framework, reviewed once a year.
-10. IT suppliers are accountable for protecting personal data. IT suppliers are held accountable for protecting the personal data they hold.
+You can support this by:
 
-Detailed guidance for these standards is available through the [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
+* training staff in co-design to involve children and young people in the process
+* evaluation and selection processes which are designed and funded to properly involve children and young people
 
-## Good practice
+## Using data
 
-During procurement, the following should be demonstrated:
+Data should be used to inform decision-making at all levels, from frontline workers, to strategic planners, and across the safeguarding partnership. It can be used more effectively by improving technology, infrastructure, and processes. 
 
-* how the system meets the required standards 
-* how it complies with [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
-* a clear understanding of what data can be accessed and shared across organisations
-* how it allows management to deny or permit access without needing assistance from support teams
-* how it handles alerts when access is attempted without permission
+Systems should collect data that:
 
-You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
+* meets statutory guidance
+* monitors performance
+* is accessible to users
 
-[Previous principle: monitoring and performance analytics](/principle-6)
+Local authorities need to understand the data they collect and rationalise what they collect and why on a regular basis. They should make themselves aware of data requirements and limitations of their systems before identifying new systems, upgrades or developments. 
+
+Performance data and analytics should be made available to improve policy development and transparency. 
+
+Information should be made available for decision-making as close to real-time as possible.
+
+Suppliers and developers should demonstrate:
+
+* how the system provides appropriate controlled access to the data through reports and data warehouse
+* how it  runs reports directly from the system
+* how it  connects to data a warehouse and be used with other products, such as data mapping and visualisation tools 
+* that the reporting tool is not process intensive
+
+## Guidance
+
+* Make better use of data
+* Point 10 of the GDS Service Standard
+
+[Previous principle: research the options](/principle-6)
 
 [Introduction](/index)
