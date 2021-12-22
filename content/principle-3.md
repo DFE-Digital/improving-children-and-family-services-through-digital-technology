@@ -1,63 +1,36 @@
 ---
-title: "User needs"
+title: "Business requirements"
 ---
 
-When reviewing  the need for a new system, upgrade or application you must consider the needs of different users within the service, local authority and wider community. 
+Local authorities have a duty to compile and report data for statutory returns to DfE and Ofsted. Systems capture and enable the extraction of data within the relevant statutory framework. Local authorities will also want to collect data for their local service needs that is additional to the statutory data collection for activities such as performance monitoring and forecasting.
+
+The amount of data and the method through which it is collected needs to be considered from both the perspective of those inputting the data and those who need to work with the data.
+
+Problems can occur if data entry is time consuming. Poor quality and untimely data can also cause issues when planning services and delivering the right support to families and children.
+
+Local authorities must consider their duties under the Children Act 1989. Guidance is also available in Working together to safeguard children.
+
+Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. 
 
 Suppliers and developers should demonstrate how:
 
-* the design and implementation will be tested and iterated to ensure it continues to meet user needs
-* social worker and other service user input has been used to design the system
-* user needs have been balanced with business and technical requirements of the system
-* the system provides easy access to information and supports users to accurately capture quality data
-* the systems or development will support the service's vision and goals and be outcomes based
+* the system meets the required standards and complies with General Data Protection Regulation (GDPR)
+* data can be accessed and shared across organisations
+* management can deny or permit access without needing assistance from support teams
+* alerts are managed when access is attempted without permission
 
-Systems, updates and development should be tested with users (social workers) during an iterative design process ahead of implementation. 
+You should also follow the guidance set out in Information sharing advice for safeguarding practitioners.
 
-The focus of the system should be enabling the user (the social worker) to identify and support the needs of the child and family.
+Local authorities should:
 
-It is useful to frame the needs as problems to be solved rather than trying to go straight to identifying or researching options. 
+* identify security and privacy threats to the service
+* have a plan and budget to manage security 
+* collect and process personal information in a way that’s secure 
+* work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
+* carry out appropriate vulnerability and penetration testing
 
-For example:
+Detailed guidance is available at NHS Data Security and Protection Toolkit.
 
-As a social worker, I have a referral and need to gather more information about the family and from their school and GP surgery before I visit the family. 
-How can a social worker gather this information in an accurate and time efficient way that enables them to visit the family, and focus on identifying and supporting their needs, as swiftly as possible. 
-
-## Conduct user research
-
-Children’s social care systems should be developed in response to the changing needs of users and service developments. A user is anyone who uses the system directly (for example, a social worker) or uses outputs from the system (for example, data from the system). 
-
-You should think about who your users are and speak to them to understand what they need from the system, for example: 
-
-* social workers
-* service delivery managers
-* data analysts
-* children and families
-* business partners
-* multi-agency partnerships
- 
-Consider how a system will complement:
-
-* the experience of social workers, children and families
-* the skills and abilities of the different users of the system
-* how the outputs will be used, for example, reporting to the Department for Education (DfE) or preparing for an Ofsted inspection
-* the interaction with other systems, such as adult social, health and education systems
-* the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
-
-You should regularly work with developers and suppliers to assess the design and performance of  case management systems against user needs, and ensure the assessments inform future iterations.
-
-Suppliers should learn about the problems  users face by:
-
-* building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
-* using analytics and other available data to better understand the problem
- 
- ## Guidance
-
-Guidance is available on Learning about users and their needs. 
-
-The Service Manual provides information on how to create and run public services.
-
-Read User research in discovery for guidance on how to conduct user research in the discovery phase. 
 
 [Next: business requirements](/principle-4)
 
