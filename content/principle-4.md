@@ -40,8 +40,8 @@ Suppliers and developers should demonstrate how the system:
 Local authorities must comply with the Equality Act.
 
 
-[Next: user needs](/principle-5)
+[Next: information sharing](/principle-5)
 
-[Previous: accessibility](/principle-3)
+[Previous: business requirements](/principle-3)
 
 [Introduction](/index)
