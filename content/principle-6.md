@@ -1,38 +1,30 @@
 ---
-title: "Monitoring and performance analytics"
+title: "Information sharing"
 ---
 
-Data should be used to inform decision-making at all levels, from frontline workers, to strategic planners, and across the safeguarding partnership.
+Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. 
 
-Systems should collect data that:
+Suppliers and developers should demonstrate how:
 
-* meets statutory guidance
-* monitors performance
-* is accessible to users
+* the system meets the required standards and complies with General Data Protection Regulation (GDPR)
+* data can be accessed and shared across organisations
+* management can deny or permit access without needing assistance from support teams
+* alerts are managed when access is attempted without permission
 
-Data can be used more effectively by improving technology, infrastructure, and processes.
+You should also follow the guidance set out in Information sharing advice for safeguarding practitioners.
 
-Analytics should be built-in and easy to read. Performance data and analytics should be made available to improve policy development and transparency.
+Local authorities should:
 
-Information should be made available for decision-making as close to real-time as possible. 
+* identify security and privacy threats to the service
+* have a plan and budget to manage security 
+* collect and process personal information in a way that’s secure 
+* work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
+carry out appropriate vulnerability and penetration testing
 
-## Available guidance
+Detailed guidance is available at NHS Data Security and Protection Toolkit.
 
-* [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
-* [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
+[Next principle: Researching options](/principle-7)
 
-## Good practice
-
-During procurement, the following should be demonstrated:
-
-* how the system provides appropriate controlled access to the data through reports and data warehouse
-* how it can run reports directly from the system
-* how it can connect to data warehouse and other products such as PowerBI, where needed
-* how it allows managers to run reports through a suite of self-service report building tools which can be used at any time
-* that the reporting tool is not process intensive
-
-[Next principle: securing personal data without inhibiting children’s social care practice](/principle-7)
-
-[Previous principle: capturing and reflecting the voice of the child](/principle-5)
+[Previous accessibility](/principle-5)
 
 [Introduction](/index)
