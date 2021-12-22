@@ -1,44 +1,66 @@
 ---
-title: "Making systems simple to use"
+title: "User needs"
 ---
 
-Complicated case management systems that have not been designed to meet user needs cost local authorities time and money to implement. They can also undermine the user's or local authority's trust in the system.
+When reviewing  the need for a new system, upgrade or application you must consider the needs of different users within the service, local authority and wider community. 
 
-Building and procuring tools that are clear and simple to use supports good children's social care practices, so that time and money can be spent supporting children and families.
+Suppliers and developers should demonstrate how:
 
-Suppliers and local authorities should:
+* the design and implementation will be tested and iterated to ensure it continues to meet user needs
+* social worker and other service user input has been used to design the system
+* user needs have been balanced with business and technical requirements of the system
+* the system provides easy access to information and supports users to accurately capture quality data
+* the systems or development will support the service's vision and goals and be outcomes based
 
-* ensure the system allows users to do what they need to do as simply as possible
-* regularly test for usability with users of the system
-* ensure all parts of the system are consistent
-* develop the system to work with a range of devices, for example, to be used on a social worker's mobile device whilst on a visit
+Systems, updates and development should be tested with users (social workers) during an iterative design process ahead of implementation. 
 
-## Available guidance
+The focus of the system should be enabling the user (the social worker) to identify and support the needs of the child and family.
 
-* [User interface design](https://www.usability.gov/what-and-why/user-interface-design.html)
-* [Designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices)
+It is useful to frame the needs as problems to be solved rather than trying to go straight to identifying or researching options. 
 
-## Good practice
+For example:
 
-During procurement, the following should be demonstrated:
+As a social worker, I have a referral and need to gather more information about the family and from their school and GP surgery before I visit the family. 
+How can a social worker gather this information in an accurate and time efficient way that enables them to visit the family, and focus on identifying and supporting their needs, as swiftly as possible. 
+
+## Conduct user research
+
+Children’s social care systems should be developed in response to the changing needs of users and service developments. A user is anyone who uses the system directly (for example, a social worker) or uses outputs from the system (for example, data from the system). 
+
+You should think about who your users are and speak to them to understand what they need from the system, for example: 
+
+* social workers
+* service delivery managers
+* data analysts
+* children and families
+* business partners
+* multi-agency partnerships
  
-* how user feedback has informed changes to the user interface
-* how it is informed by children's social care practice
-* how it meets the requirements for:
-   * no unnecessary workflows
-   * easy creation of genograms and chronology
-   * less duplication of effort
-   * consistent terminology
-   * mobile working
-* how easy it is to use and understand
-* any training support required
-* a consistent approach to data input and workflow, for example, the edit button is always in the same place 
-* how it can be used on different devices
-* how it caters for all abilities 
-* how it works with assistive technologies ([the Design systems to be more accessible and inclusive principles gives more details](/principle-4))
+Consider how a system will complement:
 
-[Next: make systems accessible and inclusive](/principle-4)
+* the experience of social workers, children and families
+* the skills and abilities of the different users of the system
+* how the outputs will be used, for example, reporting to the Department for Education (DfE) or preparing for an Ofsted inspection
+* the interaction with other systems, such as adult social, health and education systems
+* the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
 
-[Previous: systems need to talk to each other](/principle-2)
+You should regularly work with developers and suppliers to assess the design and performance of  case management systems against user needs, and ensure the assessments inform future iterations.
+
+Suppliers should learn about the problems  users face by:
+
+* building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
+* using analytics and other available data to better understand the problem
+ 
+ ## Guidance
+
+Guidance is available on Learning about users and their needs. 
+
+The Service Manual provides information on how to create and run public services.
+
+Read User research in discovery for guidance on how to conduct user research in the discovery phase. 
+
+[Next: business requirements](/principle-4)
+
+[Previous: be clear on where you want to be](/principle-2)
 
 [Introduction](/index)
