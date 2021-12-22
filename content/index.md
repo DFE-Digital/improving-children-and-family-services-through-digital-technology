@@ -26,10 +26,10 @@ Whilst digital technology and the use of digital systems can create efficiencies
 
 ## Considerations
 
-1. [Understand where you are now](/principle-1)
-2. [Be clear on where you want to be](/principle-2)
-3. [User needs](/principle-3)
-4. [Business requirements](/principle-4)
-5. [Accessibility](/principle-5)
+1. [The now and the futurte](/principle-1)
+2. [User needs](/principle-2)
+3. [Business requirements](/principle-3)
+4. [Accessibility](/principle-4)
+5. [Information sharing](/principle-5)
 6. [Researching the options](principle-6)
 7. [Monitoring, masuring and continuous improvement](principle-7)
