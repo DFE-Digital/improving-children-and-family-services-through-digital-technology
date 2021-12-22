@@ -24,11 +24,11 @@ Suppliers and local authorities should:
 
 You may find the following guidance helpful: 
 
-Testing with assistive technologies
-Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019
-Understanding accessibility requirements for public sector bodies
-Making your service accessible: an introduction
-DCB1605: Accessible Information
+* Testing with assistive technologies
+* Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019
+* Understanding accessibility requirements for public sector bodies
+* Making your service accessible: an introduction
+* DCB1605: Accessible Information
 
 Suppliers and developers should demonstrate how the system:
 
