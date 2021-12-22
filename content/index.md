@@ -32,4 +32,4 @@ Whilst digital technology and the use of digital systems can create efficiencies
 4. [Accessibility](/principle-4)
 5. [Information sharing](/principle-5)
 6. [Researching the options](principle-6)
-7. [Monitoring, masuring and continuous improvement](principle-7)
+7. [Monitoring, measuring and continuous improvement](principle-7)
