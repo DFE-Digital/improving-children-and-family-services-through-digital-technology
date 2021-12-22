@@ -6,7 +6,7 @@ Suppliers and developers should set out the measures that will be used to assess
 
 In addition, suppliers should show how efficient their case management system is. For this purpose, they should demonstrate:
 
-* children’s social care expertise has been involved in the design, testing and sign-off of the product (including from children and young people)
+* children’s social care expertise has been involved in the design, testing and sign-off of the product (including from social workers)
 * the functions available in the system
 * there is a plan to ensure the system remains up to date
 * how they will monitor the system to identify issues and gather feedback
