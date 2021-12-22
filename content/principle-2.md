@@ -1,60 +1,28 @@
 ---
-title: "Systems need to talk to each other"
+title: "Be clear on where you want to be"
 ---
 
-## Supporting interoperability
+Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently.  
 
-Safeguarding and supporting vulnerable children requires many organisations to work together. Information needs to be shared between local authorities and other partners such as:
+Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and  your users. . 
 
-* the police
-* health services
-* schools or colleges
+Take into consideration how the digital system will:
 
-Sharing information between organisations is disrupted if the systems holding the information are not connected. This can pose safeguarding risks. 
+help frontline users to meet the needs of children and families
+take account of users’ individual needs, including  different locations, digital skills and accessibility requirements.
+help empower children and families 
+support joined-up multi-agency family and safeguarding services
+provide data for decision-making, planning and oversight at all levels of the system, without data collection getting in the way of frontline delivery 
+comply with information sharing and data requirements 
+be compatible with existing processes, data, systems, technology and tools
+be deliverable within budget and resource planning limits
+be flexible in response to changing needs and requirements 
 
-Interoperability is needed to ensure systems within local authorities can be joined-up and enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
+This is not an exhaustive list. You should understand how your service has developed over time, your existing infrastructure and have a clear vision of what you want your service to achieve before seeking any solution or development.
 
-Applications, data and processes must work together to make the right information available to the right user at the right time.
 
-## Benefits of interoperability
+[Next: user needs](/principle-3)
 
-Interoperability supports:
-
-* the exchange and sharing of information between different systems to allow communication across local authorities and other organisations
-* quick, efficient, appropriate and safe sharing of child and family data
-* the integration of third-party applications   
-
-## Use open application programming interfaces (APIs)
-
-Application programming interfaces (APIs) allow 2 applications to communicate with one another to access data.
-
-Having functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
-
-Some local authorities may already have systems providing ‘end to end’ functionality that do not require extra integration work. This is an acceptable approach, however it can limit options and flexibility in the future. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
-
-Sharing data between different systems, with appropriate controls in place, makes it easier for social care workers to ensure information is used to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and integrated with third-party supplier's products. APIs often allow this to be done quicker and at a lower cost than other methods.
-
-## Guidance
-
-* [Open standards for government data and technology](https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology#recommended-open-standards)
-* [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
-* [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
-
-%Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
-
-## Good practice
-
-During procurement you should demonstrate:
-
-* how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
-* how the product can link with future systems local authorities might adopt
-* how the product meets open API standards
-* examples of collaboration or integration
-* the appropriate and secure transfer of information between systems
-* how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
-
-[Next: making systems simple to use](/principle-3)
-
-[Previous: being user-centred and meeting user needs](/principle-1)
+[Previous: be clear on where you want to be](/principle-1)
 
 [Introduction](/index)
