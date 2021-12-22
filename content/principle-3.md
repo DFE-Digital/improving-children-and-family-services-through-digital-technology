@@ -32,8 +32,8 @@ Local authorities should:
 Detailed guidance is available at NHS Data Security and Protection Toolkit.
 
 
-[Next: business requirements](/principle-4)
+[Next: accessibility](/principle-4)
 
-[Previous: be clear on where you want to be](/principle-2)
+[Previous: user needs](/principle-2)
 
 [Introduction](/index)
