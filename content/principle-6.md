@@ -1,30 +1,35 @@
 ---
-title: "Information sharing"
+title: "Research the otpions"
 ---
 
-Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. 
+You should explore what options are available. Speak to other local authorities who have implemented new systems or developed their system. 
 
-Suppliers and developers should demonstrate how:
+Identify what is suitable for your circumstances and will allow for future growth and development. 
 
-* the system meets the required standards and complies with General Data Protection Regulation (GDPR)
-* data can be accessed and shared across organisations
-* management can deny or permit access without needing assistance from support teams
-* alerts are managed when access is attempted without permission
+You should consider:
 
-You should also follow the guidance set out in Information sharing advice for safeguarding practitioners.
+* whether the system will give you a suitable foundation that you can build upon
+* if users can use the system in an optimised way
+* if extra support is needed 
+* whether there are complexities that might be an  issue for users
+* if you can take on another system or  have plans in place to make things simpler
+* whether you’ve got resources to make things simpler
+* how you can optimise what you already have
+* how to ensure no loss of knowledge when staff leave
 
-Local authorities should:
+You should think about how the wider context, such as behavioural or cultural factors, will support or potentially detract from delivering a system that meets user and service needs. 
 
-* identify security and privacy threats to the service
-* have a plan and budget to manage security 
-* collect and process personal information in a way that’s secure 
-* work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
-carry out appropriate vulnerability and penetration testing
+For example:
 
-Detailed guidance is available at NHS Data Security and Protection Toolkit.
+* cultural barriers to information sharing
+* lack of workforce confidence in using new digital technology
 
-[Next principle: Researching options](/principle-7)
+## Guidance
 
-[Previous accessibility](/principle-5)
+NEED LINKS
+
+[Next principle: monitoring, measuring and continuous improvement](/principle-7)
+
+[Previous information sharing](/principle-5)
 
 [Introduction](/index)
