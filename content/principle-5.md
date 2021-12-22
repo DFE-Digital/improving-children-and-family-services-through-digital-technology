@@ -4,8 +4,8 @@ title: "Information sharing"
 
 Needs writing
 
-[Next: business requirements](/principle-6)
+[Next: researching the options](/principle-6)
 
-[Previous: researching the options](/principle-4)
+[Previous: accessibility(/principle-4)
 
 [Introduction](/index)
