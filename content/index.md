@@ -1,28 +1,35 @@
 ---
-title: Designing case management systems for children's social care
+title: Improving children and family services through digital technology
 ---
 
-Use this guidance alongside existing technical standards (as indicated) to plan, procure, implement and improve children's social care case management systems.
+This guidance is to help local authorities consider how they can develop their digital systems to improve their children and family services. 
 
-We've developed this guidance to help local authorities and suppliers identify opportunities to improve case management systems to better support children’s social care services. We'll continue to work with the sector to develop further support and guidance for local authorities and system suppliers to design case management systems that support children's social care best practice. 
+It considers how systems can:
 
-Case management systems need to:
+* support the recording, tracking and analysis of children’s and families’ records 
+* how the systems are procured, set up and managed
+* how they interact with other systems to share information and link services together
+* how they can be monitored and measured to identify improvements opportunities
 
-* meet the needs of people who use system, based on research with them
-* support the sharing of information across agencies, for example health and police 
+Systems need to meet a number of complex needs that can potentially conflict, such as:
+
+* meeting the needs of people who use the system (based on research with them)
+* supporting the sharing of information across agencies, for example health and police
 * be easy to maintain
-* be scalable for future use
-* allow for integration with third-party systems
-* provide value for money
+* be adaptable for future use
+* allowing for integration with third-party systems
+* efficiency, quality and value for money
+* monitoring the service and performance reporting
+* meeting legal duties to report and share information
 
-## Design considerations
+Whilst digital technology and the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice. 
 
-When we design case management systems, we need to consider each of the following areas:
+## Considerations
 
-1. [Being user-centred and meeting user needs](/principle-1)
-2. [Systems need to talk to each other](/principle-2)
-3. [Making systems simple to use](/principle-3)
-4. [Making systems accessible and inclusive](/principle-4)
-5. [Capturing and reflecting the voice of the child](/principle-5)
-6. [Monitoring and performance analytics](principle-6)
-7. [Securing personal data without inhibiting children’s social care practice](principle-7)
+1. [Understand where you are now](/principle-1)
+2. [Be clear on where you want to be](/principle-2)
+3. [User needs](/principle-3)
+4. [Business requirements](/principle-4)
+5. [Accessibility](/principle-5)
+6. [Researching the options](principle-6)
+7. [Monitoring, masuring and continuous improvement](principle-7)
