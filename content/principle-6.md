@@ -35,5 +35,5 @@ NEED LINKS
 3. [Business requirements](/principle-3)
 4. [Accessibility](/principle-4)
 5. [Information sharing](/principle-5)
-6. You are here: [Researching the options](principle-6)
-7. [Monitoring, measuring and continuous improvement](principle-7)
+6. You are here: [Researching the options](/principle-6)
+7. [Monitoring, measuring and continuous improvement](/principle-7)
