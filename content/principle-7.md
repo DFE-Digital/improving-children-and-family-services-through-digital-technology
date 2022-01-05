@@ -45,9 +45,15 @@ Suppliers and developers should demonstrate:
 
 ## Guidance
 
-* Make better use of data
-* Point 10 of the GDS Service Standard
+* [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
+* [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
 
-[Previous principle: research the options](/principle-6)
+## Things to consider
 
-[Introduction](/index)
+1. [The now and the future](/principle-1)
+2. [User needs](/principle-2)
+3. [Business requirements](/principle-3)
+4. [Accessibility](/principle-4)
+5. [Information sharing](/principle-5)
+6. [Researching the options](principle-6)
+7. You are here: [Monitoring, measuring and continuous improvement](principle-7)
