@@ -1,5 +1,5 @@
 ---
-title: "Research the otpions"
+title: "Research the options"
 ---
 
 You should explore what options are available. Speak to other local authorities who have implemented new systems or developed their system. 
