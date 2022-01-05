@@ -24,11 +24,11 @@ Suppliers and local authorities should:
 
 You may find the following guidance helpful: 
 
-* Testing with assistive technologies
-* Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019
-* Understanding accessibility requirements for public sector bodies
-* Making your service accessible: an introduction
-* DCB1605: Accessible Information
+* [Testing with assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
+* [Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019](https://www.iso.org/standard/77520.html)
+* [Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
+* [Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+* [DCB1605: Accessible Information](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb1605-accessible-information)
 
 Suppliers and developers should demonstrate how the system:
 
@@ -37,7 +37,7 @@ Suppliers and developers should demonstrate how the system:
 * meets accessibility standards
 * works with assistive technology
 
-Local authorities must comply with the Equality Act.
+Local authorities must comply with the [Equality Act](https://www.legislation.gov.uk/ukpga/2010/15/contents).
 
 
 [Next: information sharing](/principle-5)
