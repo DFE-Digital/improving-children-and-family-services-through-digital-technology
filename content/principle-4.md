@@ -40,8 +40,12 @@ Suppliers and developers should demonstrate how the system:
 Local authorities must comply with the [Equality Act](https://www.legislation.gov.uk/ukpga/2010/15/contents).
 
 
-[Next: information sharing](/principle-5)
+## Things to consider
 
-[Previous: business requirements](/principle-3)
-
-[Introduction](/index)
+1. [The now and the future](/principle-1)
+2. [User needs](/principle-2)
+3. [Business requirements](/principle-3)
+4. You are here: [Accessibility](/principle-4)
+5. [Information sharing](/principle-5)
+6. [Researching the options](principle-6)
+7. [Monitoring, measuring and continuous improvement](principle-7)
