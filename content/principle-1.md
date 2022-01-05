@@ -37,6 +37,12 @@ This is not an exhaustive list. You should understand how your service has devel
 NEEDS LINKS
 
 
-[Next: user needs](/principle-2)
+## Things to consider
 
-[Introduction](/index)
+1. You are here: [The now and the future](/principle-1)
+2. [User needs](/principle-2)
+3. [Business requirements](/principle-3)
+4. [Accessibility](/principle-4)
+5. [Information sharing](/principle-5)
+6. [Researching the options](principle-6)
+7. [Monitoring, measuring and continuous improvement](principle-7)
