@@ -57,8 +57,12 @@ Suppliers should learn about the problems  users face by:
 * [The Service Manual provides information on how to create and run public services](https://www.gov.uk/service-manual)
 * [The sser research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
 
-[Next: Business requirements](/principle-3)
+## Things to consider
 
-[Previous: The now and the future](/principle-1)
-
-[Introduction](/index)
+1. [The now and the future](/principle-1)
+2. You are here: [User needs](/principle-2)
+3. [Business requirements](/principle-3)
+4. [Accessibility](/principle-4)
+5. [Information sharing](/principle-5)
+6. [Researching the options](principle-6)
+7. [Monitoring, measuring and continuous improvement](principle-7)
