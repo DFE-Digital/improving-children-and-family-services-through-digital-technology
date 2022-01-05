@@ -1,27 +1,27 @@
 ---
-title: "Understand where you are now"
+title: "The now and the future"
 ---
 
 To make the best use of digital systems and technology, you need to:
 
 * identify the services vision and goals
 * carry out an assessment of how existing systems are used
-* identify barriers and ways digital services can be developed 
 * understand how users interact with existing systems 
+* identify barriers and ways digital services can be developed 
 * make a problem statement that details your desired outcomes
 
-You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with  your  local authorities' overarching vision and goals. 
+You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
 
 There are different ways you can carry out a digital maturity assessment.
 
-Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently.  
+Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
 
-Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and  your users. . 
+Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. . 
 
 Take into consideration how the digital system will:
 
 * help frontline users to meet the needs of children and families
-* take account of users’ individual needs, including  different locations, digital skills and accessibility requirements.
+* take account of users’ individual needs, including different locations, digital skills and accessibility requirements.
 * help empower children and families 
 * support joined-up multi-agency family and safeguarding services
 * provide data for decision-making, planning and oversight at all levels of the system, without data collection getting in the way of frontline delivery 
