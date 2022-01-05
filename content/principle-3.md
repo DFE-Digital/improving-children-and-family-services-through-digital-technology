@@ -8,18 +8,18 @@ The amount of data and the method through which it is collected needs to be cons
 
 Problems can occur if data entry is time consuming. Poor quality and untimely data can also cause issues when planning services and delivering the right support to families and children.
 
-Local authorities must consider their duties under the Children Act 1989. Guidance is also available in Working together to safeguard children.
+Local authorities must consider their duties under the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41/contents). Guidance is also available in [Working together to safeguard children](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2).
 
 Local authorities have a legal duty to protect the information they record, hold and share about vulnerable children. 
 
 Suppliers and developers should demonstrate how:
 
-* the system meets the required standards and complies with General Data Protection Regulation (GDPR)
+* the system meets the required standards and complies with [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 * data can be accessed and shared across organisations
 * management can deny or permit access without needing assistance from support teams
 * alerts are managed when access is attempted without permission
 
-You should also follow the guidance set out in Information sharing advice for safeguarding practitioners.
+You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
 
 Local authorities should:
 
@@ -29,7 +29,7 @@ Local authorities should:
 * work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
 
-Detailed guidance is available at NHS Data Security and Protection Toolkit.
+Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
 
 [Next: accessibility](/principle-4)
