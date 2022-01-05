@@ -55,5 +55,5 @@ Suppliers and developers should demonstrate:
 3. [Business requirements](/principle-3)
 4. [Accessibility](/principle-4)
 5. [Information sharing](/principle-5)
-6. [Researching the options](principle-6)
-7. You are here: [Monitoring, measuring and continuous improvement](principle-7)
+6. [Researching the options](/principle-6)
+7. You are here: [Monitoring, measuring and continuous improvement](/principle-7)
