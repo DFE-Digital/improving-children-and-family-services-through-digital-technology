@@ -22,7 +22,7 @@ Whilst digital technology and the use of digital systems can create efficiencies
 
 ## Things to consider
 
-1. [The now and the futurte](/principle-1)
+1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
 3. [Business requirements](/principle-3)
 4. [Accessibility](/principle-4)
