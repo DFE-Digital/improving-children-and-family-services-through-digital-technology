@@ -51,7 +51,7 @@ Suppliers should learn about the problems  users face by:
 * building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
 * using analytics and other available data to better understand the problem
  
- ## Guidance
+## Guidance
 
 * [Guidance is available on Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
 * [The Service Manual provides information on how to create and run public services](https://www.gov.uk/service-manual)
