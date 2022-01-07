@@ -11,7 +11,7 @@ Safeguarding and supporting vulnerable children requires many organisations to w
 * the police
 * health services
 * schools or colleges
-* 
+
 Interoperability is needed to ensure systems within local authorities can be joined-up and enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
 Applications, data and processes must work together to make the right information available to the right user at the right time.
