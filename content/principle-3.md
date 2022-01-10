@@ -27,7 +27,7 @@ Local authorities should:
 * have a plan and budget to manage security 
 * collect and process personal information in a way that’s secure 
 * work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
-* carry out appropriate vulnerability and penetration testing
+* carry out appropriate vulnerability and penetration testing - maybe some links to guidance on doing this?
 
 Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
