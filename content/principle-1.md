@@ -12,7 +12,7 @@ To make the best use of digital systems and technology, you need to:
 
 You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
 
-There are different ways you can carry out a digital maturity assessment.
+There are different ways you can carry out a digital maturity assessment. Guidance maybe or additional info of where to go/look to do this?
 
 Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
 
