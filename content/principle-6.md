@@ -1,5 +1,5 @@
 ---
-title: "Monitoring, measuring and continuous improvement"
+title: "Measuring the performance of digital systems"
 ---
 
 Suppliers and developers should set out the measures that will be used to assess outcomes and set key performance indicators (KPIs). Performance data must be available to monitor and improve the service. This information should be assessed against the KPIs to inform iterations. 
