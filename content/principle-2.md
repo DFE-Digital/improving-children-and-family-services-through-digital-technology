@@ -61,8 +61,7 @@ Suppliers should learn about the problems  users face by:
 
 1. [The now and the future](/principle-1)
 2. You are here: [User needs](/principle-2)
-3. [Business requirements](/principle-3)
-4. [Accessibility](/principle-4)
+3. [Accessibility](/principle-3)
+4. [Research options and assess requirement](/principle-4)
 5. [Information sharing](/principle-5)
-6. [Researching the options](/principle-6)
-7. [Monitoring, measuring and continuous improvement](/principle-7)
+6. [Measuring the performance of digital systems](/principle-6)
