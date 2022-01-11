@@ -16,7 +16,7 @@ There are different ways you can carry out a digital maturity assessment.
 
 Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
 
-Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. . 
+Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. 
 
 Take into consideration how the digital system will:
 
