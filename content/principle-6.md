@@ -52,8 +52,7 @@ Suppliers and developers should demonstrate:
 
 1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
-3. [Business requirements](/principle-3)
-4. [Accessibility](/principle-4)
+3. [Accessibility](/principle-3)
+4. [Research options and assess requirement](/principle-4)
 5. [Information sharing](/principle-5)
-6. [Researching the options](/principle-6)
-7. You are here: [Monitoring, measuring and continuous improvement](/principle-7)
+6. You are here: [Measuring the performance of digital systems](/principle-6)
