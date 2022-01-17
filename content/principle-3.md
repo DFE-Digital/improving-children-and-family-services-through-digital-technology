@@ -15,10 +15,12 @@ Local authorities have a legal duty to meet web content accessibility standards.
 Suppliers and local authorities should:
 
 * do research with potential users for the service with a range of accessibility needs
-* make sure people are not excluded from using the system because they lack digital skills or internet access
+* make sure people are not excluded from using the system
 * deliver appropriate training and support where necessary
 * gather evidence of user feedback on the accessibility and inclusivity of systems
 * release updates to continually improve the accessibility of the system
+
+Local authorities should have an understanding of the access needs of their staff and have mechanisms in place to develop solutions with these users. This could be through a reference groups, for example. 
 
 ## Guidance
 
