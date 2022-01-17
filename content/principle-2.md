@@ -2,7 +2,7 @@
 title: "User needs"
 ---
 
-When reviewing  the need for a new system, upgrade or application you must consider the needs of different users within the service, local authority and wider community. 
+When reviewing the need for a new system, upgrade or application you should consider the needs of different users within the service, local authority and wider community. You should make sure you have a clearly identified all those who use the system or it's outputs. 
 
 Suppliers and developers should demonstrate how:
 
@@ -12,20 +12,15 @@ Suppliers and developers should demonstrate how:
 * the system provides easy access to information and supports users to accurately capture quality data
 * the systems or development will support the service's vision and goals and be outcomes based
 
-Systems, updates and development should be tested with users (social workers) during an iterative design process ahead of implementation. 
+Systems, updates and development should be tested with users during an iterative design process ahead of implementation. 
 
-The focus of the system should be enabling the user (the social worker) to identify and support the needs of the child and family.
+The focus of the system should be enabling the user to identify the record and support the needs of the child and family.
 
-It is useful to frame the needs as problems to be solved rather than trying to go straight to identifying or researching options. 
-
-For example:
-
-As a social worker, I have a referral and need to gather more information about the family and from their school and GP surgery before I visit the family. 
-How can a social worker gather this information in an accurate and time efficient way that enables them to visit the family, and focus on identifying and supporting their needs, as swiftly as possible. 
+It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. 
 
 ## Conduct user research
 
-Children’s social care systems should be developed in response to the changing needs of users and service developments. A user is anyone who uses the system directly (for example, a social worker) or uses outputs from the system (for example, data from the system). 
+Children’s social care systems should be developed in response to the changing needs of users and service developments. A user is anyone who uses the system directly or uses outputs from the system. 
 
 You should think about who your users are and speak to them to understand what they need from the system, for example: 
 
@@ -44,12 +39,13 @@ Consider how a system will complement:
 * the interaction with other systems, such as adult social, health and education systems
 * the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
 
-You should regularly work with developers and suppliers to assess the design and performance of  case management systems against user needs, and ensure the assessments inform future iterations.
+You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations.
 
-Suppliers should learn about the problems  users face by:
+Suppliers should learn about the problems users face by:
 
 * building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
 * using analytics and other available data to better understand the problem
+* using methods such as surveys, group workshops and feedback loops to support their understanding
  
 ## Guidance
 
@@ -57,7 +53,7 @@ Suppliers should learn about the problems  users face by:
 * [The Service Manual provides information on how to create and run public services](https://www.gov.uk/service-manual)
 * [The sser research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
 
-## Things to consider
+## Contents
 
 1. [The now and the future](/principle-1)
 2. You are here: [User needs](/principle-2)
