@@ -2,21 +2,21 @@
 title: "The now and the future"
 ---
 
+Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
+
+Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. 
+
 To make the best use of digital systems and technology, you need to:
 
 * identify the services vision and goals
 * carry out an assessment of how existing systems are used
 * understand how users interact with existing systems 
-* identify barriers and ways digital services can be developed 
+* identify barriers and ways digital services can better meet user needs to support the service 
 * make a problem statement that details your desired outcomes
 
 You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
 
 There are different ways you can carry out a digital maturity assessment.
-
-Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
-
-Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. 
 
 Take into consideration how the digital system will:
 
@@ -34,7 +34,9 @@ This is not an exhaustive list. You should understand how your service has devel
 
 ## Guidance
 
-NEEDS LINKS
+* [User needs section of this guidance](/principle-2)
+* [Developing a roadmap guidance](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
+* Information sharing section of this guidance](/principle-5)
 
 
 ## Things to consider
