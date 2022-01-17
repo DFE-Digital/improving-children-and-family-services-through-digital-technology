@@ -39,7 +39,7 @@ This is not an exhaustive list. You should understand how your service has devel
 * Information sharing section of this guidance](/principle-5)
 
 
-## Things to consider
+## Contents
 
 1. You are here: [The now and the future](/principle-1)
 2. [User needs](/principle-2)
