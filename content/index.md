@@ -18,7 +18,7 @@ Systems need to meet a number of complex needs that can potentially conflict, su
 * monitoring the service and performance reporting
 * meeting legal duties to report and share information
 
-Whilst digital technology and the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice. 
+Whilst digital technology and the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice and support frontline delivery of children's social care. 
 
 ## Things to consider
 
