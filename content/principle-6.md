@@ -48,7 +48,7 @@ Suppliers and developers should demonstrate:
 * [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
 * [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
 
-## Things to consider
+## Contents
 
 1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
