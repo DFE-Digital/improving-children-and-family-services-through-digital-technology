@@ -42,6 +42,7 @@ Suppliers and developers should demonstrate:
 * how it  runs reports directly from the system
 * how it  connects to data a warehouse and be used with other products, such as data mapping and visualisation tools 
 * that the reporting tool is not process intensive
+* how changes in data requirements could be managed through the life of the contract
 
 ## Guidance
 
