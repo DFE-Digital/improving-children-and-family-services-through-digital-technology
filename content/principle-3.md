@@ -42,7 +42,7 @@ Suppliers and developers should demonstrate how the system:
 Local authorities must comply with the [Equality Act](https://www.legislation.gov.uk/ukpga/2010/15/contents).
 
 
-## Things to consider
+## Contents
 
 1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
