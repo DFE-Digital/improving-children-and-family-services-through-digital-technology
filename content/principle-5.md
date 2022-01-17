@@ -55,7 +55,7 @@ When thinking about developing or purchasing new systems you should consider:
 * the appropriate and secure transfer of information between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
-## Things to consider
+## Contents
 
 1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
