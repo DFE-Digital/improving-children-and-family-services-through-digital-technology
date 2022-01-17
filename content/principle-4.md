@@ -54,7 +54,7 @@ Local authorities should:
 Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
 
 
-## Things to consider
+## Contents
 
 1. [The now and the future](/principle-1)
 2. [User needs](/principle-2)
