@@ -56,7 +56,7 @@ Suppliers should learn about the problems users face by:
 ## Contents
 
 1. [The now and the future](/principle-1)
-2. You are here: [User needs](/principle-2)
+2. You are here: [User needs](/principle-2) 
 3. [Accessibility](/principle-3)
 4. [Research options and assess requirement](/principle-4)
 5. [Information sharing](/principle-5)
