@@ -2,7 +2,9 @@
 title: "Information sharing"
 ---
 
-Sharing information between organisations is disrupted if the systems holding the information are not connected. This can pose safeguarding risks. 
+Local authorities should have a strategy and documented apprach to information sharing. There should be a clear understanding of what information needs to be shared, for what purpose and who needs access to it. This should be understood to find appropriate solutions based on existing systems and capabilities. 
+
+Inadequate sharing of information within organisations and across agencies can pose significant safeguarding risks and make it harder to join up children and family services.  
 
 ## Supporting interoperability
 
