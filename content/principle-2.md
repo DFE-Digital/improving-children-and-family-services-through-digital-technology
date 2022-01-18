@@ -16,7 +16,7 @@ Systems, updates and development should be tested with users during an iterative
 
 The focus of the system should be enabling the user to identify the record and support the needs of the child and family.
 
-It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. 
+It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. Speak with your suppliers and developers about potential solutions. 
 
 ## Conduct user research
 
@@ -39,13 +39,15 @@ Consider how a system will complement:
 * the interaction with other systems, such as adult social, health and education systems
 * the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
 
-You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations.
+You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations. You should have an understanding of any barriers that may impact on a users ability to make the most of a system, such as training or time to change their way of working. 
 
-Suppliers should learn about the problems users face by:
+You should learn about the problems users face by:
 
 * building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
 * using analytics and other available data to better understand the problem
 * using methods such as surveys, group workshops and feedback loops to support their understanding
+
+You should consider how you will continue to gather insights and feedback from users of the system to ensure any new needs are identified and met. You should look to share insights and system performance analytics on a regular basis to inform system developments. 
  
 ## Guidance
 
