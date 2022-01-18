@@ -9,6 +9,7 @@ In addition, suppliers should show how efficient their case management system is
 * children’s social care expertise has been involved in the design, testing and sign-off of the product (including from social workers)
 * the functions available in the system
 * there is a plan to ensure the system remains up to date
+* how they will minimise data entry for users and risks of data entry errors
 * how they will monitor the system to identify issues and gather feedback
 * how they will risk assess and prioritise iterations to ensure the system continues to meet user needs throughout the contract
 * how the system ensures data security and adheres  to  data protection regulations
@@ -32,9 +33,7 @@ Systems should collect data that:
 
 Local authorities need to understand the data they collect and rationalise what they collect and why on a regular basis. They should make themselves aware of data requirements and limitations of their systems before identifying new systems, upgrades or developments. 
 
-Performance data and analytics should be made available to improve policy development and transparency. 
-
-Information should be made available for decision-making as close to real-time as possible.
+System performance data and analytics should be made available to improve policy development and transparency. 
 
 Suppliers and developers should demonstrate:
 
@@ -43,6 +42,8 @@ Suppliers and developers should demonstrate:
 * how it  connects to data a warehouse and be used with other products, such as data mapping and visualisation tools 
 * that the reporting tool is not process intensive
 * how changes in data requirements could be managed through the life of the contract
+
+Information should be made available for decision-making as close to real-time as possible.
 
 ## Guidance
 
