@@ -16,6 +16,7 @@ It considers how systems can:
 Systems need to meet a number of complex needs that can potentially conflict, such as:
 
 * meeting the needs of people who use the system (based on research with them)
+* meeting data input, transfer and output requirements
 * efficiency, quality and value for money
 * monitoring the service and performance reporting
 * meeting legal duties to report and share information
