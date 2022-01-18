@@ -4,7 +4,7 @@ title: "The now and the future"
 
 Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
 
-Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual local authority, its partners and your users. The sections of this guide on [user needs](/principle-2) and [research options](/principle-4) offer further guidance. 
+Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users. The sections of this guide on [user needs](/principle-2) and [research options](/principle-4) offer further guidance. 
 
 To make the best use of digital systems and technology, you need to:
 
