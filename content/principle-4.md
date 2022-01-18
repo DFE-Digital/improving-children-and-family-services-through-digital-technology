@@ -2,7 +2,7 @@
 title: "Research options and assess requirements"
 ---
 
-## System options
+## Understanding system options
 
 You should explore what options are available. Speak to other local authorities who have implemented new systems or developed their system. 
 
@@ -33,7 +33,7 @@ Speak to other local authorities who have implemented new systems or developed t
 * [Talking to suppliers before you buy guidance](https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services)
 * [Conducting pre-tender market engagement](https://www.crowncommercial.gov.uk/news/conducting-pre-tender-market-engagement-virtually)
 
-## Statutory requirements
+## Understanding statutory requirements
 
 Local authorities have a duty to compile and report data for statutory returns to DfE and Ofsted. Systems capture and enable the extraction of data within the relevant statutory framework. Local authorities will also want to collect data for their local service needs that is additional to the statutory data collection for activities such as performance monitoring and forecasting.
 
