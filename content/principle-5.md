@@ -6,6 +6,15 @@ Local authorities should have a strategy and documented apprach to information s
 
 Inadequate sharing of information within organisations and across agencies can pose significant safeguarding risks and make it harder to join up children and family services.  
 
+When thinking about developing or purchasing new systems you should consider:
+
+* how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
+* how the product can link with future systems local authorities might adopt
+* how the product meets open API standards
+* examples of collaboration or integration
+* the appropriate and secure transfer of information between systems
+* how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
+
 ## Supporting interoperability
 
 Safeguarding and supporting vulnerable children requires many organisations to work together. Information needs to be shared between local authorities and other partners such as:
@@ -43,17 +52,6 @@ Sharing data between different systems, with appropriate controls in place, make
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
 
 %Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
-
-## Good practice
-
-When thinking about developing or purchasing new systems you should consider:
-
-* how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
-* how the product can link with future systems local authorities might adopt
-* how the product meets open API standards
-* examples of collaboration or integration
-* the appropriate and secure transfer of information between systems
-* how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 ## Contents
 
