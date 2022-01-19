@@ -43,7 +43,7 @@ Having functionality available through an API ensures organisations can integrat
 
 Some local authorities may already have systems providing ‘end to end’ functionality that do not require extra integration work. This is an acceptable approach, however it can limit options and flexibility in the future. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
 
-Sharing data between different systems, with appropriate controls in place, makes it easier for social care workers to ensure information is used to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and integrated with third-party supplier's products. APIs often allow this to be done quicker and at a lower cost than other methods.
+Sharing data between different systems, with appropriate controls in place, makes it easier for social care workers to ensure information is used to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and integrated with third-party supplier's products. APIs often allow this to be done quicker and at a lower cost than other methods. A lot of LA feedback was about the expense of APIs
 
 ## Guidance
 
