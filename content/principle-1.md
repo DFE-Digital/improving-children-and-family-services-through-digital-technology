@@ -39,6 +39,7 @@ This is not an exhaustive list. You should understand how your service has devel
 * [User needs section of this guidance](/principle-2)
 * [Developing a roadmap guidance](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
 * [Information sharing section of this guidance](/principle-5)
+* [Creating and implementing a cloud hosting strategy](https://www.gov.uk/guidance/creating-and-implementing-a-cloud-hosting-strategy)
 
 
 ## Contents
