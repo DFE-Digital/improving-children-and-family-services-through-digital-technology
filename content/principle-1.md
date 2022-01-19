@@ -18,6 +18,8 @@ The sections of this guide on [user needs](/principle-2) and [research options](
 
 You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
 
+You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
+
 ##Considerations
 
 How will the digital system:
