@@ -50,6 +50,7 @@ Information should be made available for decision-making as close to real-time a
 ## Guidance
 
 * [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
+* [Choosing tools and infrestructure to make better use of your data](https://www.gov.uk/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data)
 * [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
 
 ## Contents
