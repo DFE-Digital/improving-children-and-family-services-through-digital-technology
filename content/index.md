@@ -64,11 +64,8 @@ This is not an exhaustive list. You should understand how your service has devel
 * [Information sharing section of this guidance](/principle-5)
 * [Creating and implementing a cloud hosting strategy](https://www.gov.uk/guidance/creating-and-implementing-a-cloud-hosting-strategy)
 
-## Contents
+## Further guidance
 
-1. [The now and the future](/principle-1)
-2. [User needs](/principle-2)
-3. [Accessibility](/principle-3)
-4. [Research options and assess requirement](/principle-4)
-5. [Information sharing](/principle-5)
-6. [Measuring the performance of digital systems](/principle-6)
+{button}[Assessing needs and requirements](/user-needs){/button}
+{button}[Data and information sharing](/information-sharing){/button}
+{button}[System performance and management](/measuring-system-performance){/button}
