@@ -125,11 +125,8 @@ Speak to other local authorities who have implemented new systems or developed t
 * [Talking to suppliers before you buy guidance](https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services)
 * [Conducting pre-tender market engagement](https://www.crowncommercial.gov.uk/news/conducting-pre-tender-market-engagement-virtually)
 
-## Contents
+## Further guidance
 
-1. [The now and the future](/principle-1)
-2. You are here: [User needs](/principle-2) 
-3. [Accessibility](/principle-3)
-4. [Research options and assess requirement](/principle-4)
-5. [Information sharing](/principle-5)
-6. [Measuring the performance of digital systems](/principle-6)
+{button}[Introduction](/index){/button}
+{button}[Data and information sharing](/information-sharing){/button}
+{button}[System performance and management](/measuring-system-performance){/button}
