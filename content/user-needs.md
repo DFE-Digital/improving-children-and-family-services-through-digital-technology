@@ -2,7 +2,7 @@
 title: "User needs"
 ---
 
-When reviewing the need for a new system, upgrade or application you should consider the needs of different users within the service, local authority and wider community. You should make sure you have a clearly identified all those who use the system or it's outputs. 
+When reviewing the need for a new system, upgrade or development you should consider the needs of different users within the service, local authority and wider community. You should make sure you have a clearly identified all those who use the system or it's outputs. 
 
 Suppliers and developers should demonstrate how:
 
