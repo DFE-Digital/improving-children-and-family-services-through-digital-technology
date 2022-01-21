@@ -127,6 +127,6 @@ Speak to other local authorities who have implemented new systems or developed t
 
 ## Further guidance
 
-{button}[Introduction](/index){/button}
 {button}[Data and information sharing](/information-sharing){/button}
 {button}[System performance and management](/measuring-system-performance){/button}
+{button}[Back to introduction](/index){/button}
