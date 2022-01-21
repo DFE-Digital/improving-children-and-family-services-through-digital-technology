@@ -21,7 +21,7 @@ You can support this by:
 * training staff in co-design to involve children and young people in the process
 * evaluation and selection processes which are designed and funded to properly involve children and young people
 
-Local authorities should consider how they will measure performance of the system and manage necessary updates through the life of their contract with a supplier. Guidance is available on [Contract management standards](https://www.gov.uk/government/publications/commercial-capability-contract-management-standards).
+%Local authorities should consider how they will measure performance of the system and manage necessary updates through the life of their contract with a supplier. Guidance is available on [Contract management standards](https://www.gov.uk/government/publications/commercial-capability-contract-management-standards).%
 
 ## Using data
 
@@ -47,16 +47,12 @@ Suppliers and developers should demonstrate:
 
 Information should be made available for decision-making as close to real-time as possible.
 
+$CTA
 ## Guidance
 
 * [Make better use of data](https://www.gov.uk/guidance/make-better-use-of-data)
 * [Choosing tools and infrestructure to make better use of your data](https://www.gov.uk/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data)
 * [Point 10 of the GDS Service Standard](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data)
+$CTA
 
-## Further guidance
-
-## Further guidance
-
-{button}[Assessing needs and requirements](/user-needs){/button}
-{button}[Data and information sharing](/information-sharing){/button}
 {button}[Back to introduction](/index){/button}
