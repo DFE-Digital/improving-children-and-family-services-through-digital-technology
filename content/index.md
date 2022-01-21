@@ -37,7 +37,9 @@ To make the best use of digital systems and technology, you need to:
 
 You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
 
+$CTA
 You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
+$CTA
 
 ##Considerations
 
