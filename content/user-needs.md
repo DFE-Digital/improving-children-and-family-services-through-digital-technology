@@ -57,6 +57,8 @@ $CTA
 * [The user research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
 $CTA
 
+## Accessibility needs
+
 Systems and tools must be accessible to meet the needs of a diverse range of users. This should take into account their locations and different needs, such as physical, cultural or learning needs.
 
 They must:
@@ -65,9 +67,7 @@ They must:
 * meet accessibility standards for both online and offline elements
 * not exclude any users they are intended to serve
 
-## Accessibility needs
-
-Local authorities have a legal duty to meet web content accessibility standards.
+Local authorities have a legal duty to meet [web content accessibility standards](https://www.w3.org/TR/WCAG21/).
 
 Suppliers and local authorities should:
 
