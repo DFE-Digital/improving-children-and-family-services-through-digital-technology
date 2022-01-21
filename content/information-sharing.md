@@ -75,11 +75,8 @@ Sharing data between different systems, with appropriate controls in place, make
 
 %Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
-## Contents
+## Further guidance
 
-1. [The now and the future](/principle-1)
-2. [User needs](/principle-2)
-3. [Accessibility](/principle-3)
-4. [Research options and assess requirement](/principle-4)
-5. You are here: [Information sharing](/principle-5)
-6. [Measuring the performance of digital systems](/principle-6)
+{button}[Assessing needs and requirements](/user-needs){/button}
+{button}[System performance and management](/measuring-system-performance){/button}
+{button}[Back to introduction](/index){/button}
