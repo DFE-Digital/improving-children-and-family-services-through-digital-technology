@@ -15,6 +15,8 @@ When thinking about developing or purchasing new systems you should consider:
 * the appropriate and secure transfer of information between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
+## Data recording
+
 The amount of data and the method through which it is collected needs to be considered from both the perspective of those inputting the data and those who need to work with the data.
 
 Suppliers and developers should demonstrate how:
