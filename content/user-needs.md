@@ -125,28 +125,6 @@ Speak to other local authorities who have implemented new systems or developed t
 * [Talking to suppliers before you buy guidance](https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services)
 * [Conducting pre-tender market engagement](https://www.crowncommercial.gov.uk/news/conducting-pre-tender-market-engagement-virtually)
 
-The amount of data and the method through which it is collected needs to be considered from both the perspective of those inputting the data and those who need to work with the data.
-
-Suppliers and developers should demonstrate how:
-
-* the system meets the required standards and complies with [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
-* data can be accessed and shared across organisations
-* management can deny or permit access without needing assistance from support teams
-* alerts are managed when access is attempted without permission
-
-You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
-
-Local authorities should:
-
-* identify security and privacy threats to the service
-* have a plan and budget to manage security 
-* collect and process personal information in a way that’s secure 
-* work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
-* carry out appropriate vulnerability and penetration testing
-
-Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
-
-
 ## Contents
 
 1. [The now and the future](/principle-1)
