@@ -57,15 +57,9 @@ How will the digital system:
 
 This is not an exhaustive list. You should understand how your service has developed over time, your existing infrastructure and have a clear vision of what you want your service to achieve before seeking any solution or development.
 
+$CTA
 ## Guidance
+[Developing a roadmap guidance](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
+$CTA
 
-* [User needs section of this guidance](/principle-2)
-* [Developing a roadmap guidance](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
-* [Information sharing section of this guidance](/principle-5)
-* [Creating and implementing a cloud hosting strategy](https://www.gov.uk/guidance/creating-and-implementing-a-cloud-hosting-strategy)
-
-## Further guidance
-
-{button}[Assessing needs and requirements](/user-needs){/button}
-{button}[Data and information sharing](/information-sharing){/button}
-{button}[System performance and management](/measuring-system-performance){/button}
+{button}[Next section: Assessing needs and requirements](/user-needs){/button}
