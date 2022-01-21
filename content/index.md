@@ -4,7 +4,7 @@ title: Improving children and family services through digital technology
 
 ##Introduction
 
-This guidance is to help local authorities consider how they can develop the digital systems they use to manage their childrens social care services. These systems often interact and support wider children and family services, therefore this guidance may also apply more widely. 
+This guidance is to help local authorities consider how they can develop the digital systems they use to manage their children's social care services. These systems often interact and support wider children and family services, therefore this guidance may also apply more widely. 
 
 The guide aims to help you considers how systems can:
 
