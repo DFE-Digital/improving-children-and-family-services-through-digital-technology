@@ -67,16 +67,15 @@ Some local authorities may already have systems providing ‘end to end’ funct
 
 Sharing data between different systems, with appropriate controls in place, makes it easier for social care workers to ensure information is used to improve child safety and wellbeing. It also allows for add-on products and services to be purchased and integrated with third-party supplier's products. APIs often allow this to be done quicker and at a lower cost than other methods.
 
+$CTA
 ## Guidance
 
 * [Open standards for government data and technology](https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology#recommended-open-standards)
 * [Describing RESTful APIs with OpenAPI 3](https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3)
 * [Data security standards - Standard 7](https://www.dsptoolkit.nhs.uk/Help/Attachment/486), part of the [Data Security Standards](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards)
+$CTA
 
 %Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
-## Further guidance
-
-{button}[Assessing needs and requirements](/user-needs){/button}
-{button}[System performance and management](/measuring-system-performance){/button}
+{button}[Next section: system performance and management](/measuring-system-performance){/button}
 {button}[Back to introduction](/index){/button}
