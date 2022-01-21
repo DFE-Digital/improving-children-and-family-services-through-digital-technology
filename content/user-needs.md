@@ -49,11 +49,13 @@ You should learn about the problems users face by:
 
 You should consider how you will continue to gather insights and feedback from users of the system to ensure any new needs are identified and met. You should look to share insights and system performance analytics on a regular basis to inform system developments. 
  
+$CTA
 ## Guidance
 
 * [Guidance is available on Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
 * [The Service Manual provides information on how to create and run public services](https://www.gov.uk/service-manual)
 * [The sser research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
+* $CTA
 
 Systems and tools must be accessible to meet the needs of a diverse range of users. This should take into account their locations and different needs, such as physical, cultural or learning needs.
 
@@ -62,6 +64,8 @@ They must:
 * be easy to use and understand
 * meet accessibility standards for both online and offline elements
 * not exclude any users they are intended to serve
+
+## Accessibility needs
 
 Local authorities have a legal duty to meet web content accessibility standards.
 
@@ -75,6 +79,7 @@ Suppliers and local authorities should:
 
 Local authorities should have an understanding of the access needs of their staff and have mechanisms in place to develop solutions with these users. This could be through a reference groups, for example. 
 
+$CTA
 ## Guidance
 
 You may find the following guidance helpful: 
@@ -84,6 +89,8 @@ You may find the following guidance helpful:
 * [Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
 * [Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [DCB1605: Accessible Information](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb1605-accessible-information)
+
+$CTA
 
 Suppliers and developers should demonstrate how the system:
 
@@ -120,13 +127,11 @@ For example:
 
 Speak to other local authorities who have implemented new systems or developed their system, this could be done as part of a pre-market engagement exercise or something which you you look to do ahead of developing an existing system.
 
+$CTA
 ## Guidance
 
 * [Talking to suppliers before you buy guidance](https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services)
 * [Conducting pre-tender market engagement](https://www.crowncommercial.gov.uk/news/conducting-pre-tender-market-engagement-virtually)
+$CTA
 
-## Further guidance
-
-{button}[Data and information sharing](/information-sharing){/button}
-{button}[System performance and management](/measuring-system-performance){/button}
-{button}[Back to introduction](/index){/button}
+{button}[Next section: data and information sharing](/information-sharing){/button}
