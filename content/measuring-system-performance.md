@@ -55,4 +55,8 @@ Information should be made available for decision-making as close to real-time a
 
 ## Further guidance
 
+## Further guidance
+
+{button}[Assessing needs and requirements](/user-needs){/button}
+{button}[Data and information sharing](/information-sharing){/button}
 {button}[Back to introduction](/index){/button}
