@@ -4,7 +4,7 @@ title: "Measuring the performance of digital systems"
 
 Suppliers and developers should set out the measures that will be used to assess outcomes and set key performance indicators (KPIs). Performance data must be available to monitor and improve the service. This information should be assessed against the KPIs to inform iterations. 
 
-In addition, suppliers should show how efficient their case management system is. For this purpose, they should demonstrate:
+In addition, suppliers should show the efficiency of their case management system. For this purpose, they should demonstrate:
 
 * children’s social care expertise has been involved in the design, testing and sign-off of the product (including from social workers)
 * the functions available in the system
@@ -34,8 +34,6 @@ Systems should collect data that:
 * is accessible to users
 
 Local authorities need to understand the data they collect and rationalise what they collect and why on a regular basis. They should make themselves aware of data requirements and limitations of their systems before identifying new systems, upgrades or developments. 
-
-System performance data and analytics should be made available to improve policy development and transparency. 
 
 Suppliers and developers should demonstrate:
 
