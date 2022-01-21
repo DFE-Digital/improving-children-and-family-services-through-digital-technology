@@ -51,7 +51,7 @@ Interoperability is needed to ensure systems within local authorities can be joi
 
 Applications, data and processes must work together to make the right information available to the right user at the right time.
 
-## Benefits of interoperability
+### Benefits of interoperability
 
 Interoperability supports:
 
@@ -59,7 +59,7 @@ Interoperability supports:
 * quick, efficient, appropriate and safe sharing of child and family data
 * the integration of third-party applications   
 
-## Use open application programming interfaces (APIs)
+### Using open application programming interfaces (APIs)
 
 Application programming interfaces (APIs) allow 2 applications to communicate with one another to access data.
 
