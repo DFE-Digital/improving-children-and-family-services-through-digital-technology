@@ -15,6 +15,8 @@ When thinking about developing or purchasing new systems you should consider:
 * the appropriate and secure transfer of information between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
+%You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).%
+
 ## Data recording
 
 The amount of data and the method through which it is collected needs to be considered from both the perspective of those inputting the data and those who need to work with the data.
@@ -26,7 +28,7 @@ Suppliers and developers should demonstrate how:
 * management can deny or permit access without needing assistance from support teams
 * alerts are managed when access is attempted without permission
 
-You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).
+^Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).^
 
 Local authorities should:
 
@@ -35,9 +37,6 @@ Local authorities should:
 * collect and process personal information in a way that’s secure 
 * work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
-
-Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
-
 
 ## Supporting interoperability
 
