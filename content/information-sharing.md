@@ -77,5 +77,5 @@ $CTA
 
 %Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
-{button}[Next section: system performance and management](/measuring-system-performance){/button}
+{button}[Next section: System performance and management](/measuring-system-performance){/button}
 {button}[Back to introduction](/index){/button}
