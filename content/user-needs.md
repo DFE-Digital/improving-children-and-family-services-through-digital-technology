@@ -54,8 +54,8 @@ $CTA
 
 * [Guidance is available on Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
 * [The Service Manual provides information on how to create and run public services](https://www.gov.uk/service-manual)
-* [The sser research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
-* $CTA
+* [The user research in discovery guidance on how to conduct user research in the discovery phase](https://www.gov.uk/service-manual/user-research/user-research-in-discovery)
+$CTA
 
 Systems and tools must be accessible to meet the needs of a diverse range of users. This should take into account their locations and different needs, such as physical, cultural or learning needs.
 
