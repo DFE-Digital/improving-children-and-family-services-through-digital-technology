@@ -134,4 +134,4 @@ $CTA
 * [Conducting pre-tender market engagement](https://www.crowncommercial.gov.uk/news/conducting-pre-tender-market-engagement-virtually)
 $CTA
 
-{button}[Next section: data and information sharing](/information-sharing){/button}
+{button}[Next section: Data and information sharing](/information-sharing){/button}
