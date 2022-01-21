@@ -7,16 +7,16 @@ When reviewing the need for a new system, upgrade or application you should cons
 Suppliers and developers should demonstrate how:
 
 * the design and implementation will be tested and iterated to ensure it continues to meet user needs
-* social worker and other service user input has been used to design the system
-* user needs have been balanced with business and technical requirements of the system
+* social workers and other service users input has been used to design the system
+* user needs have been balanced with business and technical needs of the system
 * the system provides easy access to information and supports users to accurately capture quality data
-* the systems or development will support the service's vision and goals and be outcomes based
+* the system or development will support the service's vision and goals and be outcomes based
 
 Systems, updates and development should be tested with users during an iterative design process ahead of implementation. 
 
-The focus of the system should be enabling the user to identify the record and support the needs of the child and family.
+^It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. Speak with your suppliers and developers about potential solutions.^
 
-It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. Speak with your suppliers and developers about potential solutions. 
+The focus of the system should be enabling the user to identify the record and support the needs of the child and family.
 
 ## Conduct user research
 
@@ -39,13 +39,13 @@ Consider how a system will complement:
 * the interaction with other systems, such as adult social, health and education systems
 * the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
 
-You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations. You should have an understanding of any barriers that may impact on a users ability to make the most of a system, such as training or time to change their way of working. 
+You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations. You should have an understanding of any barriers that may impact on a user's ability to make the most of a system, such as training or time to change their way of working. 
 
 You should learn about the problems users face by:
 
 * building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
 * using analytics and other available data to better understand the problem
-* using methods such as surveys, group workshops and feedback loops to support their understanding
+* using methods such as surveys, group workshops and feedback loops to support your understanding
 
 You should consider how you will continue to gather insights and feedback from users of the system to ensure any new needs are identified and met. You should look to share insights and system performance analytics on a regular basis to inform system developments. 
  
@@ -71,7 +71,7 @@ Local authorities have a legal duty to meet [web content accessibility standards
 
 Suppliers and local authorities should:
 
-* do research with potential users for the service with a range of accessibility needs
+* do research with potential users of the service with a range of accessibility needs
 * make sure people are not excluded from using the system
 * deliver appropriate training and support where necessary
 * gather evidence of user feedback on the accessibility and inclusivity of systems
@@ -113,8 +113,6 @@ You should consider:
 * if users can use the system in an optimised way
 * if extra support is needed 
 * whether there are complexities that might be an  issue for users
-* if you can take on another system or  have plans in place to make things simpler
-* whether you’ve got resources to make things simpler
 * how you can optimise what you already have
 * how to ensure no loss of knowledge when staff leave
 
