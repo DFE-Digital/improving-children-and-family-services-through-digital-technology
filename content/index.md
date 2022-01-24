@@ -6,12 +6,12 @@ title: Improving children and family services through digital technology
 
 This guidance is to help local authorities consider how they can develop the digital systems they use to manage their children's social care services. These systems often interact and support wider children and family services, therefore this guidance may also apply more widely. 
 
-The guide aims to help you considers how systems can:
+It aims to help you consider how systems:
 
 * support the recording, tracking and analysis of children’s and families’ records 
-* how the systems are procured, set up and managed
-* how they interact with other systems to share information and link services together
-* how they can be monitored and measured to identify opportunities for improvement
+* are procured, set up and managed
+* interact with other systems to share information and link services together
+* can be monitored and measured to identify opportunities for improvement
 
 Systems need to meet a number of complex needs that can potentially conflict, such as:
 
@@ -21,11 +21,11 @@ Systems need to meet a number of complex needs that can potentially conflict, su
 * monitoring the service and performance reporting
 * meeting legal duties to report and share information
 
-Whilst digital technology and the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice to support frontline delivery of children's social care. 
+Whilst the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice to support frontline delivery of children's social care. 
 
 ## Delivering your vision
 
-Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
+Digital systems and tools should support your children’s social care service to deliver its vision and goals. 
 
 Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users.  
 
@@ -43,12 +43,12 @@ $CTA
 You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
 $CTA
 
-##Considerations
+## Considerations
 
-How will the digital system:
+Consider how the system will:
 
 * help frontline users to meet the needs of children and families
-* take account of users’ individual needs, including different locations, digital skills and accessibility requirements.
+* take account of users’ individual needs, including different locations, digital skills and accessibility requirements
 * help empower children and families 
 * support joined-up multi-agency family and safeguarding services
 * provide data for decision-making, planning and oversight at all levels of the system, without data collection getting in the way of frontline delivery 
