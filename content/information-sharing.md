@@ -6,11 +6,11 @@ Local authorities should have a strategy and documented approach to information 
 
 Inadequate sharing of information within organisations and across agencies can pose significant safeguarding risks and make it harder to join up children and family services.  
 
-When thinking about developing or purchasing new systems you should consider:
+When developing or purchasing new systems you should consider:
 
 * how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
-* how the product can link with future systems local authorities might adopt
-* how the product meets open API standards
+* how it can link with future systems local authorities might adopt
+* how it meets open API standards
 * examples of collaboration or integration
 * the appropriate and secure transfer of information between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)

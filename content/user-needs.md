@@ -2,7 +2,7 @@
 title: "User needs"
 ---
 
-When reviewing the need for a new system, upgrade or development you should consider the needs of different users within the service, local authority and wider community. You should make sure you have clearly identified all those who use the system or it's outputs. 
+When reviewing the need for a new system or upgrade, you should consider the needs of different users within the service, local authority and wider community. Make sure you have  identified all those who use the system or it's outputs. A user is anyone who uses the system directly or uses outputs from the system. 
 
 Suppliers and developers should demonstrate how:
 
@@ -12,15 +12,15 @@ Suppliers and developers should demonstrate how:
 * the system provides easy access to information and supports users to accurately capture quality data
 * the system or development will support the service's vision and goals and be outcomes based
 
-Systems, updates and development should be tested with users during an iterative design process ahead of implementation. 
+The system and any updates should be tested with users during an iterative design process ahead of implementation. 
 
 ^It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. Speak with your suppliers and developers about potential solutions.^
 
-The focus of the system should be enabling the user to identify the record and support the needs of the child and family.
+The focus of the system should be to allow the user to identify the record and support the needs of the child and family.
 
-## Conduct user research
+## Do user research
 
-Children’s social care systems should be developed in response to the changing needs of users and service developments. A user is anyone who uses the system directly or uses outputs from the system. 
+Children’s social care systems should be developed in response to the changing needs of users and service developments.  
 
 You should think about who your users are and speak to them to understand what they need from the system, for example: 
 
@@ -65,7 +65,7 @@ They must:
 
 * be easy to use and understand
 * meet accessibility standards for both online and offline elements
-* not exclude any users they are intended to serve
+* not exclude any users
 
 Local authorities have a legal duty to meet [web content accessibility standards](https://www.w3.org/TR/WCAG21/).
 
@@ -112,7 +112,7 @@ You should consider:
 * whether the system will give you a suitable foundation that you can build upon
 * if users can use the system in an optimised way
 * if extra support is needed 
-* whether there are complexities that might be an  issue for users
+* whether there are complexities that might be an issue for users
 * how you can optimise what you already have
 * how to ensure no loss of knowledge when staff leave
 
@@ -123,7 +123,6 @@ For example:
 * cultural barriers to information sharing
 * lack of workforce confidence in using new digital technology
 
-Speak to other local authorities who have implemented new systems or developed their system, this could be done as part of a pre-market engagement exercise or something which you you look to do ahead of developing an existing system.
 
 $CTA
 ## Guidance
