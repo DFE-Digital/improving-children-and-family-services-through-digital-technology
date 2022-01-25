@@ -28,7 +28,9 @@ Suppliers and developers should demonstrate how:
 * management can deny or permit access without needing assistance from support teams
 * alerts are managed when access is attempted without permission
 
-^Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).^
+$CTA
+Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
+$CTA
 
 Local authorities should:
 
@@ -37,6 +39,10 @@ Local authorities should:
 * collect and process personal information in a way that’s secure 
 * work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
+
+$CTA
+Detailed guidance is available on [Vulnerability and penetration testing in the GDS service manual](https://www.gov.uk/service-manual/technology/vulnerability-and-penetration-testing).
+$CTA
 
 ## Supporting interoperability
 
