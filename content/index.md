@@ -2,7 +2,7 @@
 title: Improving children and family services through digital technology
 ---
 
-##Introduction
+## Introduction
 
 This guidance is to help local authorities consider how they can develop the digital systems they use to manage their children's social care services. These systems often interact and support wider children and family services, therefore this guidance may also apply more widely. 
 
@@ -11,29 +11,28 @@ The guide aims to help you considers how systems can:
 * support the recording, tracking and analysis of children’s and families’ records 
 * how the systems are procured, set up and managed
 * how they interact with other systems to share information and link services together
-* how they can be monitored and measured to identify opportunities for improvement
+* how they can be used to identify opportunities for improvement
 
-Systems need to meet a number of complex needs that can potentially conflict, such as:
+Systems need to meet a number of complex needs that may sometimes conflict, such as:
 
-* meeting the needs of people who use the system (based on research with them)
-* meeting data input, transfer and output needs
+* meeting the needs of people who use the system - based on research with them
+* data input, transfer and output needs
 * efficiency, quality and value for money
 * monitoring the service and performance reporting
 * meeting legal duties to report and share information
 
-Whilst digital technology and the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice to support frontline delivery of children's social care. 
+Whilst the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice to support frontline delivery of children's social care. 
 
 ## Delivering your vision
 
-Digital systems and tools should support your children’s social care service to deliver its vision and goals more effectively and efficiently. 
+Digital systems and tools should support your children’s social care service to deliver its vision and goals effectively and efficiently. 
 
-Systems, whether purchased or developed in-house, need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users.  
+Whether they are purchased or developed in-house, they need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users.  
 
 To make the best use of digital systems and technology, you need to:
 
 * identify the services vision and goals
-* carry out an assessment of how existing systems are used
-* understand how users interact with existing systems 
+* carry out an assessment of how existing systems are used and how users interact with them
 * identify barriers and ways digital services can better meet user needs to support the service 
 * make a problem statement that details your desired outcomes
 
@@ -43,7 +42,7 @@ $CTA
 You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
 $CTA
 
-##Considerations
+## Considerations
 
 How will the digital system:
 
