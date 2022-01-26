@@ -19,7 +19,7 @@ When thinking about developing or purchasing new systems you should consider:
 
 ## Data recording
 
-The amount of data and how it is collected needs to be considered from those inputting the data and those who work with the it.
+The amount of data and how it is collected needs to be considered from the perspective of those inputting the data and those who work with the data.
 
 Suppliers and developers should demonstrate how:
 
