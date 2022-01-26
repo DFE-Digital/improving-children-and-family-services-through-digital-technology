@@ -6,20 +6,20 @@ Local authorities should have a strategy and documented approach to information 
 
 Inadequate sharing of information within organisations and across agencies can pose significant safeguarding risks and make it harder to join up children and family services.  
 
-When developing or purchasing new systems you should consider:
+When thinking about developing or purchasing new systems you should consider:
 
-* how the product can link with early help, virtual school, education, health systems and other existing systems, including across multi-agency partnerships 
+* how the product links with existing systems such as early help, virtual school and health systems, including across multi-agency partnerships 
 * how it can link with future systems local authorities might adopt
-* how it meets open API standards
+* how the product meets open API standards
 * examples of collaboration or integration
-* the appropriate and secure transfer of information between systems
+* how information is transferred securely between systems
 * how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/guide-to-data-protection/)
 
 %You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice).%
 
 ## Data recording
 
-The amount of data and the method through which it is collected needs to be considered from both the perspective of those inputting the data and those who need to work with the data.
+The amount of data and how it is collected needs to be considered from the perspective of those inputting the data and those who work with the data.
 
 Suppliers and developers should demonstrate how:
 
@@ -28,9 +28,7 @@ Suppliers and developers should demonstrate how:
 * management can deny or permit access without needing assistance from support teams
 * alerts are managed when access is attempted without permission
 
-$CTA
-Detailed guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).
-$CTA
+^Guidance is available at [NHS Data Security and Protection Toolkit](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework/beta---data-security-standards).^
 
 Local authorities should:
 
@@ -40,19 +38,15 @@ Local authorities should:
 * work with business and information risk teams, for example, senior information risk owners, to make sure the service meets security requirements without putting delivery at risk
 * carry out appropriate vulnerability and penetration testing
 
-$CTA
-Detailed guidance is available on [Vulnerability and penetration testing in the GDS service manual](https://www.gov.uk/service-manual/technology/vulnerability-and-penetration-testing).
-$CTA
-
 ## Supporting interoperability
 
-Safeguarding and supporting vulnerable children requires many organisations to work together. Information needs to be shared between local authorities and other partners such as:
+Safeguarding vulnerable children requires many organisations to work together. Information needs to be shared between local authorities and other partners such as:
 
 * the police
 * health services
 * schools or colleges
 
-Interoperability is needed to ensure systems within local authorities can be joined-up and enable the smooth and secure flow of information. It also means local authorities can integrate their systems with applications from a range of suppliers to best meet their service needs.
+Interoperability ensures systems within local authorities can be joined-up and enable the smooth and secure flow of information. It also means they can integrate their systems with applications from a range of suppliers to best meet their service needs.
 
 Applications, data and processes must work together to make the right information available to the right user at the right time.
 
@@ -68,7 +62,7 @@ Interoperability supports:
 
 Application programming interfaces (APIs) allow 2 applications to communicate with one another to access data.
 
-Having functionality available through an API ensures organisations can integrate systems and deliver the best systems to suit their needs. 
+Having functionality available through an API ensures organisations can integrate and deliver the best systems to suit their needs. 
 
 Some local authorities may already have systems providing ‘end to end’ functionality that do not require extra integration work. This is an acceptable approach, however it can limit options and flexibility in the future. Ensuring systems have open APIs means you have flexibility and control, both technically and commercially.
 
