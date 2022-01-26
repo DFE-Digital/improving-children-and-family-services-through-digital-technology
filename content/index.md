@@ -23,25 +23,6 @@ Systems need to meet a number of complex needs that may sometimes conflict, such
 
 Whilst the use of digital systems can create efficiencies and better oversight, they can only work well when developed with and embedded into best practice to support frontline delivery of children's social care. 
 
-## Delivering your vision
-
-Digital systems and tools should support your children’s social care service to deliver its vision and goals. 
-
-Whether they are purchased or developed in-house, they need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users.  
-
-To make the best use of digital systems and technology, you need to:
-
-* identify the services vision and goals
-* carry out an assessment of how existing systems are used and how users interact with them
-* identify barriers and ways digital services can better meet user needs to support the service 
-* make a problem statement that details your desired outcomes
-
-You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
-
-$CTA
-You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
-$CTA
-
 ## Considerations
 
 Consider how the system will:
@@ -61,6 +42,25 @@ This is not an exhaustive list. You should understand how your service has devel
 $CTA
 ## Guidance
 [Developing a roadmap guidance](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
+$CTA
+
+## Delivering your vision
+
+Digital systems and tools should support your children’s social care service to deliver its vision and goals. 
+
+Whether they are purchased or developed in-house, they need to be designed, implemented and managed based on the needs of your individual children's service, its partners and your users.  
+
+To make the best use of digital systems and technology, you need to:
+
+* identify the services vision and goals
+* carry out an assessment of how existing systems are used and how users interact with them
+* identify barriers and ways digital services can better meet user needs to support the service 
+* make a problem statement that details your desired outcomes
+
+You should also do an assessment of your digital maturity and make an individual improvement plan that aligns with your local authorities' overarching vision and goals. 
+
+$CTA
+You can find more guidance on [Commissioning digital products or services](https://www.digitalbuyingguide.org/en/guide/) and sign up to the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).
 $CTA
 
 {button}[Next section: Assessing needs and requirements](/user-needs){/button}
