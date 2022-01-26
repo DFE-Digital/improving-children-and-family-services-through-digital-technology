@@ -2,17 +2,16 @@
 title: "User needs"
 ---
 
-When reviewing the need for a new system or upgrade, you should consider the needs of different users within the service, local authority and wider community. Make sure you have  identified all those who use the system or it's outputs. A user is anyone who uses the system directly or uses outputs from the system. 
+If there's a need for a new system or upgrade, you should consider the needs of different users within the service, local authority and wider community. Make sure you have  identified all those who use the system or it's outputs. A user is anyone who uses the system directly or uses outputs from the system. 
 
 Suppliers and developers should demonstrate how:
 
 * the design and implementation will be tested and iterated to ensure it continues to meet user needs
 * social workers and other service users input has been used to design the system
 * user needs have been balanced with business and technical needs of the system
-* the system provides easy access to information and supports users to accurately capture quality data
+* it provides easy access to information and supports users to accurately capture quality data
 * the system or development will support the service's vision and goals and be outcomes based
 
-The system and any updates should be tested with users during an iterative design process ahead of implementation. 
 
 ^It is useful to frame user needs as problems to be solved and then do a seperate exercise to map how potential options could resolve those problems. Speak with your suppliers and developers about potential solutions.^
 
@@ -39,15 +38,15 @@ Consider how a system will complement:
 * the interaction with other systems, such as adult social, health and education systems
 * the ability to make improvements to social care services by using data from the system to spot trends, gaps and make predictions
 
-You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations. You should have an understanding of any barriers that may impact on a user's ability to make the most of a system, such as training or time to change their way of working. 
+You should regularly work with developers and suppliers to assess the design and performance of case management systems against user needs, and ensure the assessments inform future iterations. You should also have an understanding of any barriers that may impact on a user's ability to make the most of a system, such as training or time to change their way of working. 
 
-You should learn about the problems users face by:
+Learn about the problems users face by:
 
 * building prototypes or test environments to test hypotheses and functionality in ‘live’ practice
 * using analytics and other available data to better understand the problem
 * using methods such as surveys, group workshops and feedback loops to support your understanding
 
-You should consider how you will continue to gather insights and feedback from users of the system to ensure any new needs are identified and met. You should look to share insights and system performance analytics on a regular basis to inform system developments. 
+Consider how you will continue to gather insights and feedback from users to ensure any new needs are identified and met. You should look to share insights and system performance analytics on a regular basis to inform system developments. 
  
 $CTA
 ## Guidance
@@ -75,9 +74,9 @@ Suppliers and local authorities should:
 * make sure people are not excluded from using the system
 * deliver appropriate training and support where necessary
 * gather evidence of user feedback on the accessibility and inclusivity of systems
-* release updates to continually improve the accessibility of the system
+* release updates to continually improve accessibility 
 
-Local authorities should have an understanding of the access needs of their staff and have mechanisms in place to develop solutions with these users. This could be through a reference groups, for example. 
+Local authorities should have an understanding of the access needs of their staff and have mechanisms in place for these users. This could be through reference groups, for example. 
 
 $CTA
 ## Guidance
