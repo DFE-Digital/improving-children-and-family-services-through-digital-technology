@@ -1,5 +1,5 @@
 ---
-title: Improving children and family services through digital technology
+title: Local authority guidance for children’s social care case management systems
 ---
 
 ## Introduction
