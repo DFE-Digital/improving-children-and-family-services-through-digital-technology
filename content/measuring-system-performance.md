@@ -21,7 +21,7 @@ You can support this by:
 * designing systems collaboratively with users and involving children and young people in the process
 * using evaluation and selection processes which are designed and funded to properly involve children and young people
 
-Local authorities should consider how they will measure performance of the system and manage necessary updates through the life of their contract with a supplier. Guidance is available on Contract management standards.
+Local authorities should consider how they will measure performance of the system and manage necessary updates through the life of their contract with a supplier. Guidance is available on [Contract management standards](https://www.gov.uk/government/publications/commercial-capability-contract-management-standards).
 
 ### Using data
 
