@@ -15,7 +15,7 @@ When thinking about developing or purchasing new systems you should consider:
 * how the product meets open application programming interfaces (API) standards
 * examples of collaboration or integration
 * the appropriate and secure transfer of information between systems
-* how the system will support local authorities to meet data protection regulations (https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/)
+* how the system will support local authorities to meet [data protection regulations](https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/)
 
 You should also follow the guidance set out in [Information sharing advice for safeguarding practitioners](https://www.gov.uk/government/publications/safeguarding-practitioners-information-sharing-advice) and the [Data Sharing: A Code of Practice](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/data-sharing-code/).
 
@@ -43,7 +43,7 @@ Local authorities should:
 
 %Local authorities must ensure any systems meet [data protection regulation standards, guidance is available from the Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
-There is (guidance available from the Information Comissioner’s Office (ICO)[https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps] and various organisations including NHS digital and the National Care Association have toolkits available. 
+There is [guidance available from the Information Comissioner’s Office (ICO)](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and various organisations including NHS digital and the National Care Association have toolkits available. 
 
 ### Supporting interoperability
 
